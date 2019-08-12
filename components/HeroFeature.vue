@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="flex justify-center bg-blue-100 xl:pl-4">
-      <h3 class="py-3 xl:pl-8 xl:mr-auto text-xl text-blue-800 tracking-wide">
+      <h3 class="py-3 xl:pl-8 xl:mr-auto text-2xl text-blue-800 tracking-wide">
         受験生の駆け込み塾
       </h3>
       <MenuLinksList
