@@ -1,0 +1,60 @@
+@tailwind base;
+
+/* font-light */
+@font-face {
+  font-family: Noto Sans JP;
+  font-weight: 300;
+  src: url(~assets/fonts/NotoSansJP-Light.otf) format("otf");
+}
+
+/* font-normal */
+@font-face {
+  font-family: Noto Sans JP;
+  font-weight: 400;
+  src: url(~assets/fonts/NotoSansJP-Regular.otf) format("otf");
+}
+
+/* font-bold */
+@font-face {
+  font-family: Noto Sans JP;
+  font-weight: 700;
+  src: url(~assets/fonts/NotoSansJP-Bold.otf) format("otf");
+}
+
+@tailwind components;
+
+.btn {
+  @apply rounded;
+}
+
+.btn:focus {
+  @apply outline-none shadow-outline;
+}
+
+.btn-primary {
+  @apply flex justify-center items-center tracking-wide w-64 h-16 bg-blue-700 text-white border-b-2 border-blue-900 rounded-lg font-light;
+}
+
+.btn-primary:hover {
+  @apply bg-blue-600;
+}
+
+
+.btn-primary:active {
+  @apply bg-blue-800;
+}
+
+.btn-secondary {
+  @apply py-2 px-4 text-blue-700 text-sm border border-blue-700 rounded-lg;
+}
+
+.btn-secondary:hover {
+  @apply bg-blue-700 text-white;
+}
+
+
+.btn-secondary:active {
+  @apply bg-blue-800;
+}
+
+@tailwind utilities;
