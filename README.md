@@ -1,6 +1,6 @@
 # ookayamaschool
 
-> My terrific Nuxt.js project
+> Nuxt Universal SRR built with tailwind css. Utilizing eslint, prettier and purgecss.
 
 ## Build Setup
 
