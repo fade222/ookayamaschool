@@ -2,7 +2,7 @@
   <main class="bg-white text-gray-800 pb-20">
     <PageSubHeader>珠算科</PageSubHeader>
     <div class="mt-8 mx-4 md:px-16 md:mt-8">
-      <h4 class="text-center text-xl text-blue-800">
+      <h4 class="text-center text-xl xl:text-2xl text-blue-800">
         集中力・計算能力・暗算力のＵＰ
       </h4>
       <h5 class="mt-4 text-center text-blue-800">

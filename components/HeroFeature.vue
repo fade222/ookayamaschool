@@ -1,11 +1,13 @@
 <template>
   <div>
     <div class="flex justify-center bg-blue-100 xl:pl-4">
-      <h3 class="py-3 xl:pl-8 xl:mr-auto text-2xl text-blue-800 tracking-wide">
+      <h3
+        class="py-2 xl:pl-8 xl:mr-auto text-2xl text-blue-800 tracking-widest"
+      >
         受験生の駆け込み塾
       </h3>
       <MenuLinksList
-        class="hidden xl:block xl:flex xl:ml-auto xl:mr-5 xl:mb-2 xl:mt-2"
+        class="hidden xl:block xl:flex xl:ml-auto xl:mr-8 xl:mb-2 xl:mt-2"
       />
     </div>
     <div

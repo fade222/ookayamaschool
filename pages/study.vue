@@ -2,7 +2,7 @@
   <main class="bg-white text-gray-800 pb-20">
     <PageSubHeader>学習科</PageSubHeader>
     <div class="mt-8 mx-4 md:px-16 md:mt-8">
-      <h4 class="text-center text-xl text-blue-800">
+      <h4 class="text-center text-xl xl:text-2xl  text-blue-800">
         勉強の仕方で成績ＵＰ
       </h4>
       <div

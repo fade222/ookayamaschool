@@ -8,7 +8,7 @@
           </div>
         </div>
         <nuxt-link
-          class="text-white underline tracking-wider btn hover:text-blue-200"
+          class="text-white tracking-wider btn hover:text-blue-200"
           to="/news"
         >
           最新情報
@@ -21,7 +21,7 @@
           </div>
         </div>
         <nuxt-link
-          class="text-white underline tracking-wider btn hover:text-blue-200"
+          class="text-white tracking-wider btn hover:text-blue-200"
           to="/contact"
         >
           お問い合わせ
@@ -34,7 +34,7 @@
           </div>
         </div>
         <nuxt-link
-          class="text-white underline tracking-wider btn hover:text-blue-200"
+          class="text-white tracking-wider btn hover:text-blue-200"
           to="/company"
         >
           会社概要
