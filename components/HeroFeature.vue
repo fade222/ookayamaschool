@@ -1,9 +1,7 @@
 <template>
   <div>
     <div class="flex justify-center bg-blue-100 xl:pl-4">
-      <h3
-        class="py-2 xl:pl-8 xl:mr-auto text-2xl text-blue-800 tracking-widest"
-      >
+      <h3 class="py-2 xl:pl-8 xl:mr-auto text-xl text-blue-700 tracking-widest">
         受験生の駆け込み塾
       </h3>
       <MenuLinksList
@@ -53,7 +51,7 @@
           />
         </svg>
       </div>
-      <div class="z-10 xl:pl-12 xl:w-2/6">
+      <div class="px-4 z-10 xl:pl-12 xl:w-2/6">
         <p
           class="pt-12 xl:pt-24 text-white text-lg tracking-wider leading-loose font-light"
         >
@@ -71,11 +69,15 @@
         >
           <nuxt-link class="btn btn-primary" to="/freeTrail">
             無料体験
-            <img
-              class="ml-4 w-4 h-4"
-              src="~assets/icons/icon-arrow-right.svg"
-              alt
-            />
+            <svg
+              class="ml-4 w-4 h-4 fill-current"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M23 12.167l-11 7.938V4.228l11 7.939zM12 10.333V14H1v-3.667z"
+              />
+            </svg>
           </nuxt-link>
         </div>
       </div>

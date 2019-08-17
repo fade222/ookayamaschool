@@ -2,7 +2,7 @@
   <div class="bg-gray-200">
     <div class="flex items-center pt-6 pl-4">
       <img class="w-6 h-6" src="~assets/icons/icon-shield.svg" alt="Sheild" />
-      <h4 class="ml-4 text-blue-900 text-lg text-bold tracking-wide xl:text-xl">
+      <h4 class="ml-4 text-blue-800 text-lg text-bold tracking-wide xl:text-xl">
         セキュリティー
       </h4>
     </div>

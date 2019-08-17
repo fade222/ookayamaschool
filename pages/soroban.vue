@@ -5,15 +5,13 @@
       <h4 class="text-center text-xl xl:text-2xl text-blue-800">
         集中力・計算能力・暗算力のＵＰ
       </h4>
-      <h5 class="mt-4 text-center text-blue-800">
-        塾が開いてる時間何回でも可能
-      </h5>
       <div
         class="mt-8 p-6 pb-8 font-thin bg-blue-700 text-white rounded-lg xl:w-1/2 xl:mx-auto"
       >
-        <h6 class="text-sm">
+        <h5 class="text-sm">
           授業内容
-        </h6>
+        </h5>
+
         <ul class="mt-2 xl:ml-8">
           <li class="flex items-center">
             <img
@@ -41,6 +39,9 @@
           </li>
         </ul>
       </div>
+      <p class="mt-4 text-center text-blue-800">
+        塾が開いてる時間何回でも可能
+      </p>
       <div class="px-4 md:px-20 xl:px-0 xl:mt-4 xl:w-1/2 xl:mx-auto">
         <table class="mt-4 text-sm w-full table-collapse text-left">
           <tr>

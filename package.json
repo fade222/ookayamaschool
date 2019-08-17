@@ -1,7 +1,7 @@
 {
   "name": "ookayamaschool",
   "version": "1.0.0",
-  "description": "My terrific Nuxt.js project",
+  "description": "Nuxt Universal SRR built with tailwind css. Utilizing eslint, prettier and purgecss.",
   "author": "fade222",
   "private": true,
   "scripts": {
@@ -13,7 +13,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "tailwindcss": "^1.1.2"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
@@ -23,7 +24,7 @@
     "eslint-config-prettier": "^4.1.0",
     "eslint-config-standard": ">=12.0.0",
     "eslint-plugin-import": ">=2.16.0",
-    "eslint-plugin-jest": ">=22.3.0",
+    "eslint-plugin-jest": "^22.15.1",
     "eslint-plugin-node": ">=8.0.1",
     "eslint-plugin-nuxt": ">=0.4.2",
     "eslint-plugin-prettier": "^3.0.1",
@@ -32,7 +33,6 @@
     "eslint-plugin-vue": "^5.2.2",
     "nodemon": "^1.18.9",
     "nuxt-purgecss": "^0.2.1",
-    "prettier": "^1.16.4",
-    "tailwindcss": "^1.0.0"
+    "prettier": "^1.16.4"
   }
 }

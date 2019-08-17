@@ -6,7 +6,7 @@
       @closeSideMenu="sideMenuOpen = !sideMenuOpen"
     />
     <div class="flex items-center z-0 xl:px-4">
-      <nuxt-link class="ml-2 z-20 flex items-center btn" to="/">
+      <nuxt-link class="ml-2 z-20 flex items-center" to="/">
         <div class="pl-1">
           <img class="w-6 h-6" src="~assets/icons/icon-koma.svg" alt />
         </div>
@@ -39,7 +39,8 @@
           <div class="flex items-center">
             <img class="w-6 h-6" src="~assets/icons/icon-star.svg" alt />
             <nuxt-link
-              class="ml-4 text-blue-700 tracking-wide hover:text-blue-600 btn  xl:font-bold"
+              class="ml-4 mt-1 text-blue-700 tracking-wide xl:font-bold border-b-4 border-transparent hover:text-blue-500"
+              active-class="border-b-4 border-blue-300"
               to="/news"
             >
               最新情報
@@ -50,7 +51,8 @@
           <div class="flex items-center">
             <img class="w-6 h-6" src="~assets/icons/icon-company.svg" alt />
             <nuxt-link
-              class="ml-4 text-blue-700 tracking-wide hover:text-blue-600 btn  xl:font-bold"
+              class="ml-4 mt-1 text-blue-700 tracking-wide xl:font-bold border-b-4 border-transparent hover:text-blue-500"
+              active-class="border-b-4 border-blue-300"
               to="/company"
             >
               会社概要
@@ -61,7 +63,8 @@
           <div class="flex items-center">
             <img class="w-6 h-6" src="~assets/icons/icon-phone.svg" alt />
             <nuxt-link
-              class="ml-4 text-blue-700 tracking-wide hover:text-blue-600 btn  xl:font-bold"
+              class="ml-4 mt-1 text-blue-700 tracking-wide xl:font-bold border-b-4 border-transparent hover:text-blue-500"
+              active-class="border-b-4 border-blue-300"
               to="/contact"
             >
               お問い合わせ

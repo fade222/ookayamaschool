@@ -1,7 +1,7 @@
 <template>
   <main class="text-gray-900 bg-white pb-20">
     <PageSubHeader>会社概要</PageSubHeader>
-    <div class="pt-8 ml-8 xl:pl-32 xl:pt-16">
+    <div class="pt-8 ml-8 xl:pl-32 xl:pt-16 text-sm md:text-base">
       <table class="tracking-wide text-left">
         <tr>
           <th class="text-blue-800">

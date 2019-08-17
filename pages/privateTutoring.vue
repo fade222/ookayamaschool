@@ -2,7 +2,7 @@
   <main class="bg-white text-gray-800 pb-20">
     <PageSubHeader>1対1の個人指導科</PageSubHeader>
     <div class="mt-8 mx-4 md:px-16 md:mt-8">
-      <h4 class="text-center text-xl xl:text-2xl  text-blue-800">
+      <h4 class="text-center text-xl xl:text-2xl text-blue-800">
         受験の準備に最適
       </h4>
       <div

@@ -8,7 +8,7 @@
           </div>
         </div>
         <nuxt-link
-          class="text-white tracking-wider btn hover:text-blue-200"
+          class="text-white tracking-wider hover:text-blue-200"
           to="/news"
         >
           最新情報
@@ -21,7 +21,7 @@
           </div>
         </div>
         <nuxt-link
-          class="text-white tracking-wider btn hover:text-blue-200"
+          class="text-white tracking-wider hover:text-blue-200"
           to="/contact"
         >
           お問い合わせ
@@ -34,7 +34,7 @@
           </div>
         </div>
         <nuxt-link
-          class="text-white tracking-wider btn hover:text-blue-200"
+          class="text-white tracking-wider hover:text-blue-200"
           to="/company"
         >
           会社概要
@@ -45,11 +45,11 @@
       class="py-2 flex justify-between border-t-2 border-blue-500 items-center text-blue-300 tracking-wider hover:text-blue-100"
     >
       <div class="mx-4"></div>
-      <nuxt-link class="btn" to="/">
+      <nuxt-link to="/">
         大岡山スクール
       </nuxt-link>
       <a
-        class="mx-4 p-2 border rounded-full border-blue-300 hover:border-blue-100 active:border-blue-500 focus:outline-none focus:shadow-outline"
+        class="mx-4 p-2 border rounded-full border-blue-300 hover:border-blue-100 active:border-blue-500 btn"
         href="#top"
       >
         <img
