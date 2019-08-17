@@ -10,8 +10,7 @@
       <li class="flex items-center mt-8 xl:mt-0 xl:ml-12">
         <img class="w-3 h-3" src="~assets/icons/icon-koma.svg" alt="" />
         <nuxt-link
-          class="ml-5 mt-1 flex items-center xl:ml-2 border-b-4 border-transparent hover:text-blue-500"
-          active-class="border-b-4 border-blue-300"
+          class="ml-5 flex items-center xl:ml-2 hover:text-blue-500"
           to="/soroban"
         >
           珠算科
@@ -29,8 +28,7 @@
       <li class="flex items-center mt-8 xl:mt-0 xl:ml-12">
         <img class="w-3 h-3" src="~assets/icons/icon-koma.svg" alt="" />
         <nuxt-link
-          class="ml-5 mt-1 flex items-center xl:ml-2 border-b-4 border-transparent hover:text-blue-500"
-          active-class="border-b-4 border-blue-300"
+          class="ml-5 flex items-center xl:ml-2 hover:text-blue-500"
           to="/study"
         >
           学習科
@@ -48,8 +46,7 @@
       <li class="flex items-center mt-8 xl:mt-0 xl:ml-12">
         <img class="w-3 h-3" src="~assets/icons/icon-koma.svg" alt="" />
         <nuxt-link
-          class="ml-5 mt-1 flex items-center xl:ml-2 border-b-4 border-transparent hover:text-blue-500"
-          active-class="border-b-4 border-blue-300"
+          class="ml-5 flex items-center xl:ml-2 hover:text-blue-500"
           to="/reading"
         >
           読書科
@@ -67,8 +64,7 @@
       <li class="flex items-center mt-8 xl:mt-0 xl:ml-12">
         <img class="w-3 h-3" src="~assets/icons/icon-koma.svg" alt="" />
         <nuxt-link
-          class="ml-5 mt-1 flex items-center xl:ml-2 border-b-4 border-transparent hover:text-blue-500"
-          active-class="border-b-4 border-blue-300"
+          class="ml-5 flex items-center xl:ml-2 hover:text-blue-500"
           to="/privateTutoring"
         >
           1対1の個人指導科
@@ -86,8 +82,7 @@
       <li class="flex items-center mt-8 xl:mt-0 xl:ml-12">
         <img class="w-3 h-3" src="~assets/icons/icon-koma.svg" alt="" />
         <nuxt-link
-          class="ml-5 mt-1 flex items-center xl:ml-2 border-b-4 border-transparent hover:text-blue-500"
-          active-class="border-b-4 border-blue-300"
+          class="ml-5 flex items-center xl:ml-2 hover:text-blue-500"
           to="/adultSoroban"
         >
           大人のそろばん
