@@ -1,12 +1,12 @@
 <template>
   <div class="bg-white pb-12 flex xl:px-32">
     <div class="md:w-1/2">
-      <div class="pt-12 pl-4">
-        <h6 class="ml-4 text-blue-900 tracking-wide">
+      <div class="pt-12 pl-8">
+        <h6 class="text-blue-900 tracking-wide">
           お気軽にご連絡ください。
         </h6>
+        <ContactNumber />
       </div>
-      <ContactNumber class="pl-8" />
       <div class="pt-12 px-8 sm:hidden">
         <img
           class="w-full h-full object-cover"
