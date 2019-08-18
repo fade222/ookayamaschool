@@ -1,26 +1,4 @@
 @tailwind base;
-
-/* font-light */
-@font-face {
-  font-family: Noto Sans JP;
-  font-weight: 300;
-  src: url(~assets/fonts/NotoSansJP-Light.otf) format("otf");
-}
-
-/* font-normal */
-@font-face {
-  font-family: Noto Sans JP;
-  font-weight: 400;
-  src: url(~assets/fonts/NotoSansJP-Regular.otf) format("otf");
-}
-
-/* font-bold */
-@font-face {
-  font-family: Noto Sans JP;
-  font-weight: 700;
-  src: url(~assets/fonts/NotoSansJP-Bold.otf) format("otf");
-}
-
 @tailwind components;
 
 .btn {

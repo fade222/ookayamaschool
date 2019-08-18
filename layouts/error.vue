@@ -1,5 +1,5 @@
 <template>
-  <main class="bg-white text-gray-900 pb-32">
+  <main class="font-sans font-normal antialiased bg-white text-gray-900 pb-32">
     <PageSubHeader>エラー</PageSubHeader>
     <div class="pt-16 flex justify-center">
       <div>

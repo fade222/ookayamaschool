@@ -1,10 +1,8 @@
 <template>
-  <div class="bg-white">
-    <div class="font-sans font-normal antialiased bg-gray-100 mx-auto shadow">
-      <TheHeader />
-      <nuxt />
-      <TheFooter />
-    </div>
+  <div class="font-sans font-normal antialiased bg-white">
+    <TheHeader />
+    <nuxt />
+    <TheFooter />
   </div>
 </template>
 
