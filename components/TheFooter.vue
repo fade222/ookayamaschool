@@ -52,14 +52,17 @@
         大岡山スクール
       </nuxt-link>
       <a
-        class="mx-4 p-2 border rounded-full border-blue-300 hover:border-blue-100 active:border-blue-500 btn"
+        class="mx-4 p-2 text-blue-300 hover:text-blue-100 border rounded-full border-blue-300 hover:border-blue-100 active:border-blue-500 btn"
         href="#top"
       >
-        <img
-          class="w-3 h-3"
-          src="~assets/icons/icon-arrow-up.svg"
-          alt="Back to top"
-        />
+        <svg
+          class="w-3 h-3 fill-current"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path d="M12 1l7.939 11H4.06L12 1zM10.167 12h3.667v11h-3.667z" />
+        </svg>
+        <span class="sr-only">Back to top</span>
       </a>
     </div>
   </footer>

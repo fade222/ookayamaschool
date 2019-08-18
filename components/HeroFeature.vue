@@ -41,12 +41,10 @@
           class="hidden xl:block xl:absolute xl:inset-y-0 xl:h-full xl:w-32"
           preserveAspectRatio="none"
           viewBox="0 0 100 100"
-          fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
           <polygon
-            class="text-blue-800"
-            fill="currentColor"
+            class="text-blue-800 fill-current"
             points="0,0 0,100 100,0"
           />
         </svg>

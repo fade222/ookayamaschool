@@ -29,11 +29,15 @@
         <div class="mt-6 flex justify-center">
           <nuxt-link class="btn btn-primary" to="/soroban">
             珠算詳細
-            <img
-              class="ml-4 w-4 h-4"
-              src="~assets/icons/icon-arrow-right.svg"
-              alt=""
-            />
+            <svg
+              class="ml-4 w-4 h-4 fill-current"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M23 12.167l-11 7.938V4.228l11 7.939zM12 10.333V14H1v-3.667z"
+              />
+            </svg>
           </nuxt-link>
         </div>
       </div>

@@ -14,7 +14,7 @@
             </div>
             <nuxt-link
               class="ml-3 mt-1 capitalize text-sm font-bold text-blue-700 tracking-wider border-b-4 border-transparent hover:text-blue-500"
-              active-class="text-blue-800 border-b-4 border-blue-300"
+              exact-active-class="text-blue-800 border-b-4 border-blue-300"
               to="/"
               @click.native="closeMenu"
             >
@@ -23,7 +23,7 @@
           </div>
           <button
             type="button"
-            class="ml-auto p-1 m-2"
+            class="ml-auto p-2 m-2 btn"
             @click="$emit('closeSideMenu')"
           >
             <svg
@@ -84,12 +84,7 @@
             </div>
           </div>
         </div>
-        <div class="mt-8 h-12 bg-gray-200 flex">
-          <img
-            class="ml-auto mr-6 -mt-8 w-16 h-16"
-            src="~assets/images/corner-deco.svg"
-          />
-        </div>
+        <div class="mt-8 h-12 bg-gray-200 flex"></div>
       </div>
     </nav>
   </transition>

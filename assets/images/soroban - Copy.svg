@@ -1,1 +1,1335 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="599" height="193" fill="none"><style><![CDATA[.B{fill:#b7791f}.C{fill:#d69e2e}.D{stroke-linejoin:round}]]></style><g stroke="#1a202c"><path fill-rule="evenodd" d="M1 1h597v191H1V1zm24.66 19.804v153h545.736L572.043 21 25.66 20.804z" fill="#744210" class="D"/><path d="M51 22v151h-9V22z" class="B"/><g class="D"><path d="M37 93l-10 9h39l-10-9H37z" class="C"/><path d="M37 112l-10-9h39l-10 9H37z" class="B"/><path d="M37 113l-10 9h39l-10-9H37z" class="C"/><path d="M37 132l-10-9h39l-10 9H37z" class="B"/><path d="M37 133l-10 9h39l-10-9H37z" class="C"/><path d="M37 152l-10-9h39l-10 9H37z" class="B"/><path d="M37 153l-10 9h39l-10-9H37z" class="C"/><path d="M37 172l-10-9h39l-10 9H37z" class="B"/><path d="M37 23l-10 9h39l-10-9H37z" class="C"/><path d="M37 42l-10-9h39l-10 9H37z" class="B"/></g><path d="M93 22v151h-9V22z" class="B"/><g class="D"><path d="M79 93l-10 9h39l-10-9H79z" class="C"/><path d="M79 112l-10-9h39l-10 9H79z" class="B"/><path d="M79 113l-10 9h39l-10-9H79z" class="C"/><path d="M79 132l-10-9h39l-10 9H79z" class="B"/><path d="M79 133l-10 9h39l-10-9H79z" class="C"/><path d="M79 152l-10-9h39l-10 9H79z" class="B"/><path d="M79 153l-10 9h39l-10-9H79z" class="C"/><path d="M79 172l-10-9h39l-10 9H79z" class="B"/><path d="M79 23l-10 9h39l-10-9H79z" class="C"/><path d="M79 42l-10-9h39l-10 9H79z" class="B"/></g><path d="M135 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" class="C"/><use xlink:href="#C" class="B"/><use xlink:href="#B" y="20" class="C"/><use xlink:href="#C" y="20" class="B"/><use xlink:href="#B" y="40" class="C"/><use xlink:href="#C" y="40" class="B"/><use xlink:href="#B" y="60" class="C"/><use xlink:href="#C" y="60" class="B"/><use xlink:href="#B" y="-70" class="C"/><use xlink:href="#C" y="-70" class="B"/></g><path d="M177 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="42" class="C"/><use xlink:href="#C" x="42" class="B"/><use xlink:href="#B" x="42" y="20" class="C"/><use xlink:href="#C" x="42" y="20" class="B"/><use xlink:href="#B" x="42" y="40" class="C"/><use xlink:href="#C" x="42" y="40" class="B"/><use xlink:href="#B" x="42" y="60" class="C"/><use xlink:href="#C" x="42" y="60" class="B"/><use xlink:href="#B" x="42" y="-70" class="C"/><use xlink:href="#C" x="42" y="-70" class="B"/></g><path d="M219 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="84" class="C"/><use xlink:href="#C" x="84" class="B"/><use xlink:href="#B" x="84" y="20" class="C"/><use xlink:href="#C" x="84" y="20" class="B"/><use xlink:href="#B" x="84" y="40" class="C"/><use xlink:href="#C" x="84" y="40" class="B"/><use xlink:href="#B" x="84" y="60" class="C"/><use xlink:href="#C" x="84" y="60" class="B"/><use xlink:href="#B" x="84" y="-70" class="C"/><use xlink:href="#C" x="84" y="-70" class="B"/></g><path d="M261 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="126" class="C"/><use xlink:href="#C" x="126" class="B"/><use xlink:href="#B" x="126" y="20" class="C"/><use xlink:href="#C" x="126" y="20" class="B"/><use xlink:href="#B" x="126" y="40" class="C"/><use xlink:href="#C" x="126" y="40" class="B"/><use xlink:href="#B" x="126" y="60" class="C"/><use xlink:href="#C" x="126" y="60" class="B"/><use xlink:href="#B" x="126" y="-70" class="C"/><use xlink:href="#C" x="126" y="-70" class="B"/></g><path d="M303 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="168" class="C"/><use xlink:href="#C" x="168" class="B"/><use xlink:href="#B" x="168" y="20" class="C"/><use xlink:href="#C" x="168" y="20" class="B"/><use xlink:href="#B" x="168" y="40" class="C"/><use xlink:href="#C" x="168" y="40" class="B"/><use xlink:href="#B" x="168" y="60" class="C"/><use xlink:href="#C" x="168" y="60" class="B"/><use xlink:href="#B" x="168" y="-70" class="C"/><use xlink:href="#C" x="168" y="-70" class="B"/></g><path d="M345 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="210" class="C"/><use xlink:href="#C" x="210" class="B"/><use xlink:href="#B" x="210" y="20" class="C"/><use xlink:href="#C" x="210" y="20" class="B"/><use xlink:href="#B" x="210" y="40" class="C"/><use xlink:href="#C" x="210" y="40" class="B"/><use xlink:href="#B" x="210" y="60" class="C"/><use xlink:href="#C" x="210" y="60" class="B"/><use xlink:href="#B" x="210" y="-70" class="C"/><use xlink:href="#C" x="210" y="-70" class="B"/></g><path d="M387 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="252" class="C"/><use xlink:href="#C" x="252" class="B"/><use xlink:href="#B" x="252" y="20" class="C"/><use xlink:href="#C" x="252" y="20" class="B"/><use xlink:href="#B" x="252" y="40" class="C"/><use xlink:href="#C" x="252" y="40" class="B"/><use xlink:href="#B" x="252" y="60" class="C"/><use xlink:href="#C" x="252" y="60" class="B"/><use xlink:href="#B" x="252" y="-70" class="C"/><use xlink:href="#C" x="252" y="-70" class="B"/></g><path d="M429 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="294" class="C"/><use xlink:href="#C" x="294" class="B"/><use xlink:href="#B" x="294" y="20" class="C"/><use xlink:href="#C" x="294" y="20" class="B"/><use xlink:href="#B" x="294" y="40" class="C"/><use xlink:href="#C" x="294" y="40" class="B"/><use xlink:href="#B" x="294" y="60" class="C"/><use xlink:href="#C" x="294" y="60" class="B"/><use xlink:href="#B" x="294" y="-70" class="C"/><use xlink:href="#C" x="294" y="-70" class="B"/></g><path d="M471 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="336" class="C"/><use xlink:href="#C" x="336" class="B"/><use xlink:href="#B" x="336" y="20" class="C"/><use xlink:href="#C" x="336" y="20" class="B"/><use xlink:href="#B" x="336" y="40" class="C"/><use xlink:href="#C" x="336" y="40" class="B"/><use xlink:href="#B" x="336" y="60" class="C"/><use xlink:href="#C" x="336" y="60" class="B"/><use xlink:href="#B" x="336" y="-70" class="C"/><use xlink:href="#C" x="336" y="-70" class="B"/></g><path d="M513 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="378" class="C"/><use xlink:href="#C" x="378" class="B"/><use xlink:href="#B" x="378" y="20" class="C"/><use xlink:href="#C" x="378" y="20" class="B"/><use xlink:href="#B" x="378" y="40" class="C"/><use xlink:href="#C" x="378" y="40" class="B"/><use xlink:href="#B" x="378" y="60" class="C"/><use xlink:href="#C" x="378" y="60" class="B"/><use xlink:href="#B" x="378" y="-70" class="C"/><use xlink:href="#C" x="378" y="-70" class="B"/></g><path d="M555 22v151h-9V22z" class="B"/><g class="D"><use xlink:href="#B" x="420" class="C"/><use xlink:href="#C" x="420" class="B"/><use xlink:href="#B" x="420" y="20" class="C"/><use xlink:href="#C" x="420" y="20" class="B"/><use xlink:href="#B" x="420" y="40" class="C"/><use xlink:href="#C" x="420" y="40" class="B"/><use xlink:href="#B" x="420" y="60" class="C"/><use xlink:href="#C" x="420" y="60" class="B"/><use xlink:href="#B" x="420" y="-70" class="C"/><use xlink:href="#C" x="420" y="-70" class="B"/><path fill="#fff" d="M26 63h546v9H26z"/></g></g><defs ><path id="B" d="M121 93l-10 9h39l-10-9h-19z"/><path id="C" d="M121 112l-10-9h39l-10 9h-19z"/></defs></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="599"
+   height="193"
+   fill="none"
+   version="1.1"
+   id="svg1139"
+   sodipodi:docname="soroban - Copy.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata1143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview1141"
+     showgrid="true"
+     inkscape:pagecheckerboard="true"
+     showborder="false"
+     inkscape:zoom="2.1036132"
+     inkscape:cx="-27.555188"
+     inkscape:cy="149.44924"
+     inkscape:current-layer="svg1139">
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid4850"
+       units="mm"
+       empspacing="10" />
+  </sodipodi:namedview>
+  <style
+     id="style815"><![CDATA[.B{fill:#b7791f}.C{fill:#d69e2e}.D{stroke-linejoin:round}]]></style>
+  <g
+     id="g1133"
+     transform="matrix(1,-0.57732255,0,1,-1,1.5607771)"
+     style="stroke:#1a202c">
+    <path
+       d="M 1,1 H 598 V 192 H 1 Z m 24.66,19.804 v 153 H 571.396 L 572.043,21 Z"
+       class="D"
+       id="path817"
+       inkscape:connector-curvature="0"
+       style="fill:#744210;fill-rule:evenodd;stroke-linejoin:round" />
+    <path
+       d="M 51,22 V 173 H 42 V 22 Z"
+       class="B"
+       id="path819"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g841"
+       style="stroke-linejoin:round">
+      <path
+         d="m 37,93 -10,9 H 66 L 56,93 Z"
+         class="C"
+         id="path821"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="m 37,112 -10,-9 h 39 l -10,9 z"
+         class="B"
+         id="path823"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+      <path
+         d="m 37,113 -10,9 h 39 l -10,-9 z"
+         class="C"
+         id="path825"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="m 37,132 -10,-9 h 39 l -10,9 z"
+         class="B"
+         id="path827"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+      <path
+         d="m 37,133 -10,9 h 39 l -10,-9 z"
+         class="C"
+         id="path829"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="m 37,152 -10,-9 h 39 l -10,9 z"
+         class="B"
+         id="path831"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+      <path
+         d="m 37,153 -10,9 h 39 l -10,-9 z"
+         class="C"
+         id="path833"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="m 37,172 -10,-9 h 39 l -10,9 z"
+         class="B"
+         id="path835"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+      <path
+         d="M 37,23 27,32 H 66 L 56,23 Z"
+         class="C"
+         id="path837"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="M 37,42 27,33 h 39 l -10,9 z"
+         class="B"
+         id="path839"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+    </g>
+    <path
+       d="M 93,22 V 173 H 84 V 22 Z"
+       class="B"
+       id="path843"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g865"
+       style="stroke-linejoin:round">
+      <path
+         d="m 79,93 -10,9 h 39 L 98,93 Z"
+         class="C"
+         id="path845"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="m 79,112 -10,-9 h 39 l -10,9 z"
+         class="B"
+         id="path847"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+      <path
+         d="m 79,113 -10,9 h 39 l -10,-9 z"
+         class="C"
+         id="path849"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="m 79,132 -10,-9 h 39 l -10,9 z"
+         class="B"
+         id="path851"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+      <path
+         d="m 79,133 -10,9 h 39 l -10,-9 z"
+         class="C"
+         id="path853"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="m 79,152 -10,-9 h 39 l -10,9 z"
+         class="B"
+         id="path855"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+      <path
+         d="m 79,153 -10,9 h 39 l -10,-9 z"
+         class="C"
+         id="path857"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="m 79,172 -10,-9 h 39 l -10,9 z"
+         class="B"
+         id="path859"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+      <path
+         d="m 79,23 -10,9 h 39 L 98,23 Z"
+         class="C"
+         id="path861"
+         inkscape:connector-curvature="0"
+         style="fill:#d69e2e" />
+      <path
+         d="M 79,42 69,33 h 39 l -10,9 z"
+         class="B"
+         id="path863"
+         inkscape:connector-curvature="0"
+         style="fill:#b7791f" />
+    </g>
+    <path
+       d="m 135,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path867"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g889"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         class="C"
+         id="use869"
+         style="fill:#d69e2e"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         class="B"
+         id="use871"
+         style="fill:#b7791f"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         y="20"
+         class="C"
+         id="use873"
+         style="fill:#d69e2e"
+         x="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         y="20"
+         class="B"
+         id="use875"
+         style="fill:#b7791f"
+         x="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         y="40"
+         class="C"
+         id="use877"
+         style="fill:#d69e2e"
+         x="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         y="40"
+         class="B"
+         id="use879"
+         style="fill:#b7791f"
+         x="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         y="60"
+         class="C"
+         id="use881"
+         style="fill:#d69e2e"
+         x="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         y="60"
+         class="B"
+         id="use883"
+         style="fill:#b7791f"
+         x="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         y="-70"
+         class="C"
+         id="use885"
+         style="fill:#d69e2e"
+         x="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         y="-70"
+         class="B"
+         id="use887"
+         style="fill:#b7791f"
+         x="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 177,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path891"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g913"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="42"
+         class="C"
+         id="use893"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="42"
+         class="B"
+         id="use895"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="42"
+         y="20"
+         class="C"
+         id="use897"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="42"
+         y="20"
+         class="B"
+         id="use899"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="42"
+         y="40"
+         class="C"
+         id="use901"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="42"
+         y="40"
+         class="B"
+         id="use903"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="42"
+         y="60"
+         class="C"
+         id="use905"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="42"
+         y="60"
+         class="B"
+         id="use907"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="42"
+         y="-70"
+         class="C"
+         id="use909"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="42"
+         y="-70"
+         class="B"
+         id="use911"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 219,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path915"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g937"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="84"
+         class="C"
+         id="use917"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="84"
+         class="B"
+         id="use919"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="84"
+         y="20"
+         class="C"
+         id="use921"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="84"
+         y="20"
+         class="B"
+         id="use923"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="84"
+         y="40"
+         class="C"
+         id="use925"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="84"
+         y="40"
+         class="B"
+         id="use927"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="84"
+         y="60"
+         class="C"
+         id="use929"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="84"
+         y="60"
+         class="B"
+         id="use931"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="84"
+         y="-70"
+         class="C"
+         id="use933"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="84"
+         y="-70"
+         class="B"
+         id="use935"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 261,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path939"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g961"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="126"
+         class="C"
+         id="use941"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="126"
+         class="B"
+         id="use943"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="126"
+         y="20"
+         class="C"
+         id="use945"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="126"
+         y="20"
+         class="B"
+         id="use947"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="126"
+         y="40"
+         class="C"
+         id="use949"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="126"
+         y="40"
+         class="B"
+         id="use951"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="126"
+         y="60"
+         class="C"
+         id="use953"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="126"
+         y="60"
+         class="B"
+         id="use955"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="126"
+         y="-70"
+         class="C"
+         id="use957"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="126"
+         y="-70"
+         class="B"
+         id="use959"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 303,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path963"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g985"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="168"
+         class="C"
+         id="use965"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="168"
+         class="B"
+         id="use967"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="168"
+         y="20"
+         class="C"
+         id="use969"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="168"
+         y="20"
+         class="B"
+         id="use971"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="168"
+         y="40"
+         class="C"
+         id="use973"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="168"
+         y="40"
+         class="B"
+         id="use975"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="168"
+         y="60"
+         class="C"
+         id="use977"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="168"
+         y="60"
+         class="B"
+         id="use979"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="168"
+         y="-70"
+         class="C"
+         id="use981"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="168"
+         y="-70"
+         class="B"
+         id="use983"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 345,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path987"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g1009"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="210"
+         class="C"
+         id="use989"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="210"
+         class="B"
+         id="use991"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="210"
+         y="20"
+         class="C"
+         id="use993"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="210"
+         y="20"
+         class="B"
+         id="use995"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="210"
+         y="40"
+         class="C"
+         id="use997"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="210"
+         y="40"
+         class="B"
+         id="use999"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="210"
+         y="60"
+         class="C"
+         id="use1001"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="210"
+         y="60"
+         class="B"
+         id="use1003"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="210"
+         y="-70"
+         class="C"
+         id="use1005"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="210"
+         y="-70"
+         class="B"
+         id="use1007"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 387,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path1011"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g1033"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="252"
+         class="C"
+         id="use1013"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="252"
+         class="B"
+         id="use1015"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="252"
+         y="20"
+         class="C"
+         id="use1017"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="252"
+         y="20"
+         class="B"
+         id="use1019"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="252"
+         y="40"
+         class="C"
+         id="use1021"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="252"
+         y="40"
+         class="B"
+         id="use1023"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="252"
+         y="60"
+         class="C"
+         id="use1025"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="252"
+         y="60"
+         class="B"
+         id="use1027"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="252"
+         y="-70"
+         class="C"
+         id="use1029"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="252"
+         y="-70"
+         class="B"
+         id="use1031"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 429,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path1035"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g1057"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="294"
+         class="C"
+         id="use1037"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="294"
+         class="B"
+         id="use1039"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="294"
+         y="20"
+         class="C"
+         id="use1041"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="294"
+         y="20"
+         class="B"
+         id="use1043"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="294"
+         y="40"
+         class="C"
+         id="use1045"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="294"
+         y="40"
+         class="B"
+         id="use1047"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="294"
+         y="60"
+         class="C"
+         id="use1049"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="294"
+         y="60"
+         class="B"
+         id="use1051"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="294"
+         y="-70"
+         class="C"
+         id="use1053"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="294"
+         y="-70"
+         class="B"
+         id="use1055"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 471,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path1059"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g1081"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="336"
+         class="C"
+         id="use1061"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="336"
+         class="B"
+         id="use1063"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="336"
+         y="20"
+         class="C"
+         id="use1065"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="336"
+         y="20"
+         class="B"
+         id="use1067"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="336"
+         y="40"
+         class="C"
+         id="use1069"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="336"
+         y="40"
+         class="B"
+         id="use1071"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="336"
+         y="60"
+         class="C"
+         id="use1073"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="336"
+         y="60"
+         class="B"
+         id="use1075"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="336"
+         y="-70"
+         class="C"
+         id="use1077"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="336"
+         y="-70"
+         class="B"
+         id="use1079"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 513,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path1083"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g1105"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="378"
+         class="C"
+         id="use1085"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="378"
+         class="B"
+         id="use1087"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="378"
+         y="20"
+         class="C"
+         id="use1089"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="378"
+         y="20"
+         class="B"
+         id="use1091"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="378"
+         y="40"
+         class="C"
+         id="use1093"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="378"
+         y="40"
+         class="B"
+         id="use1095"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="378"
+         y="60"
+         class="C"
+         id="use1097"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="378"
+         y="60"
+         class="B"
+         id="use1099"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="378"
+         y="-70"
+         class="C"
+         id="use1101"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="378"
+         y="-70"
+         class="B"
+         id="use1103"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       d="m 555,22 v 151 h -9 V 22 Z"
+       class="B"
+       id="path1107"
+       inkscape:connector-curvature="0"
+       style="fill:#b7791f" />
+    <g
+       class="D"
+       id="g1131"
+       style="stroke-linejoin:round">
+      <use
+         xlink:href="#B"
+         x="420"
+         class="C"
+         id="use1109"
+         style="fill:#d69e2e"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="420"
+         class="B"
+         id="use1111"
+         style="fill:#b7791f"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="420"
+         y="20"
+         class="C"
+         id="use1113"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="420"
+         y="20"
+         class="B"
+         id="use1115"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="420"
+         y="40"
+         class="C"
+         id="use1117"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="420"
+         y="40"
+         class="B"
+         id="use1119"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="420"
+         y="60"
+         class="C"
+         id="use1121"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="420"
+         y="60"
+         class="B"
+         id="use1123"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#B"
+         x="420"
+         y="-70"
+         class="C"
+         id="use1125"
+         style="fill:#d69e2e"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#C"
+         x="420"
+         y="-70"
+         class="B"
+         id="use1127"
+         style="fill:#b7791f"
+         width="100%"
+         height="100%" />
+      <path
+         d="m 26,63 h 546 v 9 H 26 Z"
+         id="path1129"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <defs
+     id="defs1137">
+    <path
+       id="B"
+       d="M121 93l-10 9h39l-10-9h-19z" />
+    <path
+       id="C"
+       d="M121 112l-10-9h39l-10 9h-19z" />
+  </defs>
+</svg>
