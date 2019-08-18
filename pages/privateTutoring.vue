@@ -69,7 +69,7 @@
               対象
             </td>
             <td class="text-right border-t border-gray-300">
-              小学１年より大学受験生まで
+              小学１年～大学受験生まで
             </td>
           </tr>
           <tr>

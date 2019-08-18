@@ -73,7 +73,7 @@
               対象
             </td>
             <td class="text-right border-t border-gray-300">
-              小学１年より
+              小学１年～
             </td>
           </tr>
           <tr>

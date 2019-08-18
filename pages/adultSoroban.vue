@@ -73,7 +73,7 @@
               対象
             </td>
             <td class="text-right border-t border-gray-300">
-              社会人より
+              社会人～
             </td>
           </tr>
           <tr>

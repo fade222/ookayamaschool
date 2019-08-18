@@ -82,7 +82,7 @@
               対象
             </td>
             <td class="text-right border-t border-gray-300">
-              幼稚園児より大学受験生まで
+              幼稚園児～大学受験生まで
             </td>
           </tr>
           <tr>
