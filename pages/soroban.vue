@@ -40,7 +40,8 @@
         </ul>
       </div>
       <p class="mt-4 text-center text-blue-800 md:text-xl">
-        そろばんの授業参加は塾が開いてる時間何回でも可能
+        そろばんの授業は塾が開いてる時間なら
+        <br class="md:hidden" />何回でも参加可能
       </p>
       <div class="px-4 md:px-20 xl:px-0 xl:mt-4 xl:w-1/2 xl:mx-auto">
         <table class="mt-4 text-sm w-full table-collapse text-left">
