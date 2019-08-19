@@ -12,12 +12,10 @@
 </template>
 
 <script>
-import PageSubHeader from '~/components/PageSubHeader.vue'
 import ContactNumber from '~/components/ContactNumber.vue'
 
 export default {
   components: {
-    PageSubHeader,
     ContactNumber
   },
   head: {

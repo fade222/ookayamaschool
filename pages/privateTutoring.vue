@@ -163,12 +163,7 @@
 </template>
 
 <script>
-import PageSubHeader from '~/components/PageSubHeader.vue'
-
 export default {
-  components: {
-    PageSubHeader
-  },
   head: {
     title: '1対1の個人指導科'
   },

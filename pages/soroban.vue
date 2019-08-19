@@ -146,16 +146,9 @@
 </template>
 
 <script>
-import PageSubHeader from '~/components/PageSubHeader.vue'
-
 export default {
-  components: {
-    PageSubHeader
-  },
   head: {
     title: '珠算科'
   }
 }
 </script>
-
-<style></style>

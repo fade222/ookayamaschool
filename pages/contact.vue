@@ -7,17 +7,13 @@
 
 <script>
 import ContactFeature from '~/components/ContactFeature.vue'
-import PageSubHeader from '~/components/PageSubHeader.vue'
 
 export default {
   components: {
-    ContactFeature,
-    PageSubHeader
+    ContactFeature
   },
   head: {
     title: 'お問い合わせ'
   }
 }
 </script>
-
-<style></style>

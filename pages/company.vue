@@ -63,12 +63,7 @@
 </template>
 
 <script>
-import PageSubHeader from '~/components/PageSubHeader.vue'
-
 export default {
-  components: {
-    PageSubHeader
-  },
   head: {
     title: '会社概要'
   }
