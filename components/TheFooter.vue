@@ -2,44 +2,44 @@
   <footer class="mt-8 bg-blue-800 border-t-4 border-blue-300 text-sm">
     <div class="flex justify-center pt-12 pb-8">
       <div>
-        <div class="flex items-center mb-2">
-          <div class="m-auto bg-yellow-100 rounded-full p-4">
-            <img class="w-5 h-5" src="~assets/icons/icon-star.svg" alt />
-          </div>
-        </div>
         <nuxt-link
           class="text-white tracking-wider hover:text-blue-200 border-b-2 border-transparent"
           active-class="border-white"
           to="/news"
         >
+          <div class="flex items-center mb-2">
+            <div class="m-auto bg-yellow-100 rounded-full p-4">
+              <img class="w-5 h-5" src="~assets/icons/icon-star.svg" alt />
+            </div>
+          </div>
           最新情報
         </nuxt-link>
       </div>
       <div class="ml-6 sm:ml-12">
-        <div class="flex items-center mb-2">
-          <div class="m-auto bg-yellow-100 rounded-full p-4">
-            <img class="w-5 h-5" src="~assets/icons/icon-phone.svg" alt />
-          </div>
-        </div>
         <nuxt-link
           class="text-white tracking-wider hover:text-blue-200 border-b-2 border-transparent"
           active-class="border-white"
           to="/contact"
         >
+          <div class="flex items-center mb-2">
+            <div class="m-auto bg-yellow-100 rounded-full p-4">
+              <img class="w-5 h-5" src="~assets/icons/icon-phone.svg" alt />
+            </div>
+          </div>
           お問い合わせ
         </nuxt-link>
       </div>
       <div class="ml-6 sm:ml-12">
-        <div class="flex items-center mb-2">
-          <div class="m-auto bg-yellow-100 rounded-full p-4">
-            <img class="w-5 h-5" src="~assets/icons/icon-company.svg" alt />
-          </div>
-        </div>
         <nuxt-link
           class="text-white tracking-wider hover:text-blue-200 border-b-2 border-transparent"
           active-class="border-white"
           to="/company"
         >
+          <div class="flex items-center mb-2">
+            <div class="m-auto bg-yellow-100 rounded-full p-4">
+              <img class="w-5 h-5" src="~assets/icons/icon-company.svg" alt />
+            </div>
+          </div>
           会社概要
         </nuxt-link>
       </div>

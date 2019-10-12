@@ -3,24 +3,38 @@
     <PageSubHeader>最新情報</PageSubHeader>
     <div class="pt-8 md:pt-16 xl:mx-32">
       <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
-        <div class="md:w-1/2 md:pl-16">
+        <div class="md:pl-16">
           <div class="flex items-baseline">
-            <h2 class="font-bold text-blue-800">冬期講習会受付開始</h2>
-            <span class="pl-1 text-xs text-gray-500 tracking-tighter">２０１９年１０月１３日</span>
+            <h2 class="font-bold text-blue-800">
+              冬期講習会受付開始
+            </h2>
+            <span class="pl-1 text-xs text-gray-500 tracking-tighter">
+              ２０１９年１０月１３日
+            </span>
           </div>
           <div class="text-sm">
-            <p class="pt-2">２０１９年１２月２１日（土）～１２月２９日（日）まで冬期講習会を実施します。</p>
-            <p class="pt-4">１２月２３日（月）・２４日（火）はお休みです。</p>
-            <p class="pt-4">授業は１０：００～１６：００、定員は１０名です。</p>
-            <p class="pt-4">詳細は、ご連絡ください。</p>
+            <p class="pt-2">
+              ２０１９年１２月２１日（土）～１２月２９日（日）まで冬期講習会を実施します。
+            </p>
+            <p class="pt-4">
+              ２３日（月）・２４日（火）はお休みです。
+            </p>
+            <p class="pt-4">
+              授業は１０：００～１６：００、定員は１０名です。
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
           </div>
           <div class="mt-8 flex justify-center md:justify-start">
-            <nuxt-link class="px-4 btn btn-secondary" to="/contact">お問い合わせ</nuxt-link>
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
           </div>
         </div>
       </article>
       <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
-        <div class="md:w-1/2 md:pl-16">
+        <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               夏期講習会受付開始
@@ -37,7 +51,7 @@
               授業は１０：００～１６：００、定員は１０名です。
             </p>
             <p class="pt-4">
-              詳細は、ご連絡ください。
+              詳細はご連絡ください。
             </p>
           </div>
           <div class="mt-8 flex justify-center md:justify-start">
@@ -48,7 +62,7 @@
         </div>
       </article>
       <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
-        <div class="md:w-1/2 md:pl-16">
+        <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               春休みのお知らせ
@@ -65,7 +79,7 @@
               新学期は４月８日（月）午後３：３０からです。
             </p>
             <p class="pt-4">
-              詳細は、ご連絡ください。
+              詳細はご連絡ください。
             </p>
           </div>
           <div class="mt-8 flex justify-center md:justify-start">
@@ -76,7 +90,7 @@
         </div>
       </article>
       <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
-        <div class="md:w-1/2 md:pl-16">
+        <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               春期講習会の受付開始
@@ -94,10 +108,10 @@
               授業時間は１０：００～１６：００
             </p>
             <p class="pt-4">
-              月３０日と３１日はお休みです。
+              ３０日と３１日はお休みです。
             </p>
             <p class="pt-4">
-              詳細は、ご連絡ください。
+              詳細はご連絡ください。
             </p>
           </div>
           <div class="mt-8 flex justify-center md:justify-start">
@@ -108,7 +122,7 @@
         </div>
       </article>
       <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
-        <div class="md:w-1/2 md:pl-16">
+        <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               冬期講習会の受付を開始
@@ -129,7 +143,7 @@
               定員１１名、先着順です。
             </p>
             <p class="pt-4">
-              詳細は、ご連絡ください。
+              詳細はご連絡ください。
             </p>
           </div>
           <div class="mt-8 flex justify-center md:justify-start">
