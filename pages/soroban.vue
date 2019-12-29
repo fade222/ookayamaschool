@@ -2,8 +2,12 @@
   <main class="bg-white text-gray-800 pb-20">
     <PageSubHeader>珠算科</PageSubHeader>
     <div class="mt-8 mx-4 md:px-16 md:mt-8">
-      <h4 class="text-center text-xl xl:text-2xl text-blue-800">
-        集中力・計算能力・暗算力のＵＰ
+      <h4 class="text-center text-lg md:text-xl xl:text-2xl text-blue-800">
+        学童の帰り
+        <span class="px-1 bg-blue-300 rounded-full">手</span>
+        <span class="px-1 bg-blue-300 rounded-full">ぶ</span>
+        <span class="px-1 bg-blue-300 rounded-full">り</span>
+        でそろばん
       </h4>
       <div
         class="mt-8 p-6 pb-8 font-thin bg-blue-700 text-white rounded-lg xl:w-1/2 xl:mx-auto"
@@ -39,7 +43,7 @@
           </li>
         </ul>
       </div>
-      <p class="mt-4 text-center text-blue-800 md:text-xl">
+      <p class="mt-4 text-center text-blue-800 text md:text-xl">
         そろばんの授業は塾が開いてる時間なら
         <br class="md:hidden" />何回でも参加可能
       </p>
