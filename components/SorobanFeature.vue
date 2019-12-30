@@ -23,8 +23,12 @@
       class="-mt-24 pt-24 xl:-mt-48 xl:pt-48 pb-12 flex justify-center bg-gray-200"
     >
       <div>
-        <p class="text-blue-900 text-sm xl:text-base">
-          集中力・計算能力・暗算力のＵＰ！
+        <p class="text-center text-lg md:text-xl xl:text-2xl text-blue-800">
+          学童の帰り
+          <span class="px-1 bg-blue-300 rounded-full">手</span>
+          <span class="px-1 bg-blue-300 rounded-full">ぶ</span>
+          <span class="px-1 bg-blue-300 rounded-full">り</span>
+          でそろばん
         </p>
         <div class="mt-6 flex justify-center">
           <nuxt-link class="btn btn-primary" to="/soroban">
