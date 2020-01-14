@@ -27,7 +27,7 @@
           学童の帰り
           <span class="px-1 bg-blue-300 rounded-full">手</span>
           <span class="px-1 bg-blue-300 rounded-full">ぶ</span>
-          <span class="px-1 bg-blue-300 rounded-full">り</span>
+          <span class="px-1 bg-blue-300 rounded-full">ら</span>
           でそろばん
         </p>
         <div class="mt-6 flex justify-center">
