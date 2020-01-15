@@ -65,7 +65,7 @@
         <div
           class="flex justify-center pb-8 xl:justify-start xl:pt-16 xl:pb-24"
         >
-          <nuxt-link class="btn btn-primary" to="/freeTrail">
+          <nuxt-link class="btn btn-primary" to="/freeTrial">
             無料体験
             <svg
               class="ml-4 w-4 h-4 fill-current"

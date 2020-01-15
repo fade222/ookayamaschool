@@ -3,6 +3,10 @@
     <PageSubHeader>無料体験</PageSubHeader>
     <div class="pt-16 ml-8 xl:ml-32">
       <p class="tracking-wide leading-relaxed">
+        そろばんも学習も<br />
+        無料体験できます。
+      </p>
+      <p class="pt-8 tracking-wide leading-relaxed">
         無料体験をご希望の方は、<br />
         お気軽にご連絡ください。
       </p>
