@@ -16,13 +16,9 @@
           授業内容
         </h5>
 
-        <ul class="mt-2 xl:ml-8">
-          <li class="flex items-center">
-            <img
-              class="mt-5 w-3 h-3 mr-2"
-              src="~assets/icons/icon-koma.svg"
-              alt
-            />
+        <ul class="xl:ml-8">
+          <li class="mt-5 flex items-center">
+            <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
             フラッシュ暗算
           </li>
           <li class="mt-5 flex items-center">
