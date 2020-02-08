@@ -2,9 +2,9 @@
   <transition name="slide-fade">
     <nav v-if="sideMenuOpen" class="relative z-30">
       <button
+        @click="$emit('closeSideMenu')"
         type="button"
         class="fixed bg-blue-900 opacity-50 inset-0 h-full w-full"
-        @click="$emit('closeSideMenu')"
       ></button>
       <div class="absolute right-0 top-0 w-64 bg-white">
         <div class="flex items-center">
@@ -13,18 +13,18 @@
               <img class="w-4 h-4" src="~assets/icons/icon-home.svg" alt />
             </div>
             <nuxt-link
+              @click.native="closeMenu"
               class="ml-3 mt-1 capitalize text-sm font-bold text-blue-700 tracking-wider border-b-4 border-transparent hover:text-blue-500"
               exact-active-class="text-blue-800 border-b-4 border-blue-300"
               to="/"
-              @click.native="closeMenu"
             >
               Home
             </nuxt-link>
           </div>
           <button
+            @click="$emit('closeSideMenu')"
             type="button"
             class="ml-auto p-2 m-2 btn"
-            @click="$emit('closeSideMenu')"
           >
             <svg
               class="w-4 h-4 stroke-current text-blue-800 hover:text-blue-700"
@@ -48,10 +48,10 @@
             <div class="flex items-center">
               <img class="w-4 h-4" src="~assets/icons/icon-star.svg" alt />
               <nuxt-link
+                @click.native="closeMenu"
                 class="ml-3 mt-1 capitalize text-sm font-bold text-blue-700 tracking-wider border-b-4 border-transparent hover:text-blue-500"
                 active-class="text-blue-800 border-b-4 border-blue-300"
                 to="/news"
-                @click.native="closeMenu"
               >
                 最新情報
               </nuxt-link>
@@ -61,10 +61,10 @@
             <div class="flex items-center">
               <img class="w-4 h-4" src="~assets/icons/icon-company.svg" alt />
               <nuxt-link
+                @click.native="closeMenu"
                 class="ml-3 mt-1 capitalize text-sm font-bold text-blue-700 tracking-wider border-b-4 border-transparent hover:text-blue-500"
                 active-class="text-blue-800 border-b-4 border-blue-300"
                 to="/company"
-                @click.native="closeMenu"
               >
                 会社概要
               </nuxt-link>
@@ -74,10 +74,10 @@
             <div class="flex items-center">
               <img class="w-4 h-4" src="~assets/icons/icon-phone.svg" alt />
               <nuxt-link
+                @click.native="closeMenu"
                 class="ml-3 mt-1 capitalize text-sm font-bold text-blue-700 tracking-wider border-b-4 border-transparent hover:text-blue-500"
                 active-class="text-blue-800 border-b-4 border-blue-300"
                 to="/contact"
-                @click.native="closeMenu"
               >
                 お問い合わせ
               </nuxt-link>

@@ -1,9 +1,9 @@
 <template>
   <header class="relative z-20 bg-white">
     <TheHeaderSideMenu
-      class="xl:hidden"
       :side-menu-open="sideMenuOpen"
       @closeSideMenu="sideMenuOpen = !sideMenuOpen"
+      class="xl:hidden"
     />
     <div class="flex items-center z-0 xl:px-4">
       <nuxt-link class="ml-2 z-20 flex items-center" to="/">
@@ -16,9 +16,9 @@
       </nuxt-link>
       <SubHeader class="hidden xl:block xl:pt-1 xl:pl-4" />
       <button
+        @click="toggleSideMenu"
         class="px-1 py-1 mr-2 mt-2 mb-2 ml-auto text-blue-800 hover:text-blue-700 btn xl:hidden"
         type="button"
-        @click="toggleSideMenu"
       >
         <svg
           class="w-6 h-6 stroke-current"

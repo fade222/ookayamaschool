@@ -16,7 +16,7 @@
           エラーが発生しました。
         </p>
         <div class="mt-16 flex justify-center">
-          <button class="btn btn-secondary text-center" @click="$router.go(-1)">
+          <button @click="$router.go(-1)" class="btn btn-secondary text-center">
             戻る
           </button>
           <nuxt-link

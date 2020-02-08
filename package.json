@@ -13,8 +13,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
-    "tailwindcss": "^1.1.2"
+    "nuxt": "^2.11.0",
+    "tailwindcss": "^1.2.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
