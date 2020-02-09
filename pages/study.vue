@@ -100,7 +100,6 @@
           <tr>
             <td class="p-1 border-t border-gray-300 text-blue-900">
               入学金
-              <span class="text-xs">（１ヶ月）</span>
             </td>
             <td class="text-right border-t border-gray-300">
               １５,０００円
