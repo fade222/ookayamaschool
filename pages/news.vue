@@ -6,7 +6,42 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
-              冬期講習会受付開始
+              春期講習会の受付開始
+              <small class="pl-1 text-xs text-gray-500 tracking-tighter">
+                ２０２０年２月１０日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              ２０２０年３月２０日（金）～
+              ３月２９日（日）まで春期講習会を実施します。
+            </p>
+            <p class="pt-4">
+              （小学生20時間・中学受験生以上は30時間）
+            </p>
+            <p class="pt-4">
+              ２３日・２４日・２５日はお休みです。
+            </p>
+            <p class="pt-4">
+              定員１０名、先着順です。
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="mt-8 flex justify-center md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
+              冬期講習会の受付開始
             </h2>
             <span class="pl-1 text-xs text-gray-500 tracking-tighter">
               ２０１９年１０月１３日
@@ -37,7 +72,7 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
-              夏期講習会受付開始
+              夏期講習会の受付開始
               <small class="pl-1 text-xs text-gray-500 tracking-tighter">
                 ２０１９年７月２日
               </small>
@@ -125,7 +160,7 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
-              冬期講習会の受付を開始
+              冬期講習会の受付開始
               <small class="pl-1 text-xs text-gray-500 tracking-tighter">
                 ２０１８年１１月２日
               </small>
