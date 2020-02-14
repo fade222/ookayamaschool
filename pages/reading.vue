@@ -93,7 +93,7 @@
               入学金
             </td>
             <td class="text-right border-t border-gray-300">
-              ６,０００円
+              ７,０００円
             </td>
           </tr>
           <tr>
@@ -120,7 +120,7 @@
               <span class="text-xs">（１ヶ月）</span>
             </td>
             <td class="text-right border-t border-gray-300">
-              ５,０００円
+              ６,０００円
             </td>
           </tr>
         </table>

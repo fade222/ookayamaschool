@@ -211,14 +211,14 @@ export default {
           name: '小学１・２年生',
           time: '９０分',
           frequencyEight: '１３,０００円',
-          frequencyTwelve: '１９,０００円'
+          frequencyTwelve: ''
         },
         {
           id: 3,
           name: '小学３年生',
           time: '１２０分',
           frequencyEight: '１７,０００円',
-          frequencyTwelve: '２５,０００円'
+          frequencyTwelve: ''
         },
         {
           id: 4,
@@ -236,10 +236,17 @@ export default {
         },
         {
           id: 6,
+          name: '中学受験',
+          time: '１２０分',
+          frequencyEight: '',
+          frequencyTwelve: '３５,０００円'
+        },
+        {
+          id: 6,
           name: '中学１・２年生',
           time: '１２０分',
           frequencyEight: '',
-          frequencyTwelve: '２８,０００円'
+          frequencyTwelve: '３０,０００円'
         },
         {
           id: 7,
@@ -253,14 +260,14 @@ export default {
           name: '高学１・２年生',
           time: '１２０分',
           frequencyEight: '１６,０００円 ',
-          frequencyTwelve: '３２,０００円'
+          frequencyTwelve: ''
         },
         {
           id: 9,
           name: '高学３年生・既卒',
           time: '１２０分',
           frequencyEight: '２０,０００円 ',
-          frequencyTwelve: '４０,０００円'
+          frequencyTwelve: ''
         }
       ]
     }
