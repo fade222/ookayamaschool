@@ -6,6 +6,34 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              オンライン授業開始
+              <small class="pl-1 text-xs text-gray-500 tracking-tighter">
+                ２０２０年４月６日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              新学期を２０２０年4月9日（木）に延期します。
+            </p>
+            <p class="pt-4">
+              尚、授業は全てオンラインで行います。
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="mt-8 flex justify-center md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               春期講習会の受付開始
               <small class="pl-1 text-xs text-gray-500 tracking-tighter">
                 ２０２０年２月１０日
