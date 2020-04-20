@@ -6,18 +6,17 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
-              オンライン授業開始
+              授業開始
               <small class="pl-1 text-xs text-gray-500 tracking-tighter">
                 ２０２０年４月６日
               </small>
             </h2>
           </div>
           <div class="text-sm">
-            <p class="pt-2">
-              新学期を２０２０年4月9日（木）に延期します。
-            </p>
             <p class="pt-4">
-              尚、授業は全てオンラインで行います。
+              都の自粛要請が出ているため<br />
+              只今、塾は閉鎖しています。<br />
+              新学期は、コロナウイルスが収まるまで延期します。
             </p>
             <p class="pt-4">
               詳細はご連絡ください。
