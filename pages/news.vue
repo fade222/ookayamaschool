@@ -6,7 +6,7 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
-              授業開始
+              授業開始延期
               <small class="pl-1 text-xs text-gray-500 tracking-tighter">
                 ２０２０年４月６日
               </small>
