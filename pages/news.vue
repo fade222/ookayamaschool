@@ -1,13 +1,40 @@
 <template>
-  <main class="text-gray-900 bg-white pb-20">
+  <main class="pb-20 text-gray-900 bg-white">
     <PageSubHeader>最新情報</PageSubHeader>
     <div class="pt-8 md:pt-16 xl:mx-32">
-      <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
+              新規生徒募集を開始期
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２０年０５月１８日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-4">
+              新型コロナウイルスの影響が心配な中、政府の緊急事態宣言延長を受けて以下の時間で対応いたします。<br />
+              皆様のご理解、ご協力をお願い申し上げます。<br />
+              【受付時間】随時
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               授業開始延期
-              <small class="pl-1 text-xs text-gray-500 tracking-tighter">
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２０年４月６日
               </small>
             </h2>
@@ -22,19 +49,19 @@
               詳細はご連絡ください。
             </p>
           </div>
-          <div class="mt-8 flex justify-center md:justify-start">
+          <div class="flex justify-center mt-8 md:justify-start">
             <nuxt-link class="px-4 btn btn-secondary" to="/contact">
               お問い合わせ
             </nuxt-link>
           </div>
         </div>
       </article>
-      <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               春期講習会の受付開始
-              <small class="pl-1 text-xs text-gray-500 tracking-tighter">
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２０年２月１０日
               </small>
             </h2>
@@ -57,20 +84,20 @@
               詳細はご連絡ください。
             </p>
           </div>
-          <div class="mt-8 flex justify-center md:justify-start">
+          <div class="flex justify-center mt-8 md:justify-start">
             <nuxt-link class="px-4 btn btn-secondary" to="/contact">
               お問い合わせ
             </nuxt-link>
           </div>
         </div>
       </article>
-      <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               冬期講習会の受付開始
             </h2>
-            <span class="pl-1 text-xs text-gray-500 tracking-tighter">
+            <span class="pl-1 text-xs tracking-tighter text-gray-500">
               ２０１９年１０月１３日
             </span>
           </div>
@@ -88,19 +115,19 @@
               詳細はご連絡ください。
             </p>
           </div>
-          <div class="mt-8 flex justify-center md:justify-start">
+          <div class="flex justify-center mt-8 md:justify-start">
             <nuxt-link class="px-4 btn btn-secondary" to="/contact">
               お問い合わせ
             </nuxt-link>
           </div>
         </div>
       </article>
-      <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               夏期講習会の受付開始
-              <small class="pl-1 text-xs text-gray-500 tracking-tighter">
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０１９年７月２日
               </small>
             </h2>
@@ -116,19 +143,19 @@
               詳細はご連絡ください。
             </p>
           </div>
-          <div class="mt-8 flex justify-center md:justify-start">
+          <div class="flex justify-center mt-8 md:justify-start">
             <nuxt-link class="px-4 btn btn-secondary" to="/contact">
               お問い合わせ
             </nuxt-link>
           </div>
         </div>
       </article>
-      <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               春休みのお知らせ
-              <small class="pl-1 text-xs text-gray-500 tracking-tighter">
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０１９年２月２２日
               </small>
             </h2>
@@ -144,19 +171,19 @@
               詳細はご連絡ください。
             </p>
           </div>
-          <div class="mt-8 flex justify-center md:justify-start">
+          <div class="flex justify-center mt-8 md:justify-start">
             <nuxt-link class="px-4 btn btn-secondary" to="/contact">
               お問い合わせ
             </nuxt-link>
           </div>
         </div>
       </article>
-      <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               春期講習会の受付開始
-              <small class="pl-1 text-xs text-gray-500 tracking-tighter">
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０１９年２月６日
               </small>
             </h2>
@@ -176,19 +203,19 @@
               詳細はご連絡ください。
             </p>
           </div>
-          <div class="mt-8 flex justify-center md:justify-start">
+          <div class="flex justify-center mt-8 md:justify-start">
             <nuxt-link class="px-4 btn btn-secondary" to="/contact">
               お問い合わせ
             </nuxt-link>
           </div>
         </div>
       </article>
-      <article class="px-4 pt-8 pb-8 border-b-2 border-gray-300 tracking-wide">
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
               冬期講習会の受付開始
-              <small class="pl-1 text-xs text-gray-500 tracking-tighter">
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０１８年１１月２日
               </small>
             </h2>
@@ -208,7 +235,7 @@
               詳細はご連絡ください。
             </p>
           </div>
-          <div class="mt-8 flex justify-center md:justify-start">
+          <div class="flex justify-center mt-8 md:justify-start">
             <nuxt-link class="px-4 btn btn-secondary" to="/contact">
               お問い合わせ
             </nuxt-link>
