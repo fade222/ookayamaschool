@@ -1,14 +1,14 @@
 <template>
-  <footer class="mt-8 bg-blue-800 border-t-4 border-blue-300 text-sm">
+  <footer class="mt-8 text-sm bg-blue-800 border-t-4 border-blue-300">
     <div class="flex justify-center pt-12 pb-8">
       <div>
         <nuxt-link
-          class="text-white tracking-wider hover:text-blue-200 border-b-2 border-transparent"
+          class="tracking-wider text-white border-b-2 border-transparent hover:text-blue-200"
           active-class="border-white"
           to="/news"
         >
           <div class="flex items-center mb-2">
-            <div class="m-auto bg-yellow-100 rounded-full p-4">
+            <div class="p-4 m-auto bg-yellow-100 rounded-full">
               <img class="w-5 h-5" src="~assets/icons/icon-star.svg" alt />
             </div>
           </div>
@@ -17,12 +17,12 @@
       </div>
       <div class="ml-6 sm:ml-12">
         <nuxt-link
-          class="text-white tracking-wider hover:text-blue-200 border-b-2 border-transparent"
+          class="tracking-wider text-white border-b-2 border-transparent hover:text-blue-200"
           active-class="border-white"
           to="/contact"
         >
           <div class="flex items-center mb-2">
-            <div class="m-auto bg-yellow-100 rounded-full p-4">
+            <div class="p-4 m-auto bg-yellow-100 rounded-full">
               <img class="w-5 h-5" src="~assets/icons/icon-phone.svg" alt />
             </div>
           </div>
@@ -31,12 +31,12 @@
       </div>
       <div class="ml-6 sm:ml-12">
         <nuxt-link
-          class="text-white tracking-wider hover:text-blue-200 border-b-2 border-transparent"
+          class="tracking-wider text-white border-b-2 border-transparent hover:text-blue-200"
           active-class="border-white"
           to="/company"
         >
           <div class="flex items-center mb-2">
-            <div class="m-auto bg-yellow-100 rounded-full p-4">
+            <div class="p-4 m-auto bg-yellow-100 rounded-full">
               <img class="w-5 h-5" src="~assets/icons/icon-company.svg" alt />
             </div>
           </div>
@@ -45,14 +45,14 @@
       </div>
     </div>
     <div
-      class="py-2 flex justify-between border-t-2 border-blue-500 items-center text-blue-300 tracking-wider hover:text-blue-100"
+      class="flex items-center justify-between py-2 tracking-wider text-blue-300 border-t-2 border-blue-500 hover:text-blue-100"
     >
       <div class="mx-4"></div>
       <nuxt-link to="/">
         大岡山スクール
       </nuxt-link>
       <a
-        class="mx-4 p-2 text-blue-300 hover:text-blue-100 border rounded-full border-blue-300 hover:border-blue-100 active:border-blue-500 btn"
+        class="p-2 mx-4 text-blue-300 border border-blue-300 rounded-full hover:text-blue-100 hover:border-blue-100 active:border-blue-500 btn"
         href="#top"
       >
         <svg

@@ -1,9 +1,9 @@
 <template>
   <div
-    class="flex items-center xl:py-2 bg-blue-100 xl:border-b-4 xl:border-blue-300"
+    class="flex items-center bg-blue-100 xl:py-2 xl:border-b-4 xl:border-blue-300"
   >
     <h3
-      class="pl-4 py-2 xl:py-0 text-blue-700 font-bold xl:font-normal text-sm xl:pl-10 xl:text-xl xl:tracking-widest xl:text-grey-100"
+      class="py-2 pl-4 text-sm font-bold text-blue-700 xl:py-0 xl:font-normal xl:pl-10 xl:text-xl xl:tracking-widest xl:text-grey-100"
     >
       <slot></slot>
     </h3>

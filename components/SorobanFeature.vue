@@ -1,40 +1,40 @@
 <template>
   <div class="bg-blue-800 border-t-4 border-blue-300">
-    <div class="pt-10 xl:pt-16 flex justify-center">
-      <h5 class="text-lg xl:text-xl text-white tracking-wide">
+    <div class="flex justify-center pt-10 xl:pt-16">
+      <h5 class="text-lg tracking-wide text-white xl:text-xl">
         数字に強くなり、計算が楽になる。
       </h5>
     </div>
     <div class="sm:hidden">
       <img
-        class="h-full w-full object-cover"
+        class="object-cover w-full h-full"
         src="~assets/images/soroban-30deg.svg"
         alt="Soroban"
       />
     </div>
     <div class="hidden sm:block">
       <img
-        class="px-12 py-12 xl:px-48 h-full w-full object-cover"
+        class="object-cover w-full h-full px-12 py-12 xl:px-48"
         src="~assets/images/soroban.svg"
         alt="Soroban"
       />
     </div>
     <div
-      class="-mt-24 pt-24 xl:-mt-48 xl:pt-48 pb-12 flex justify-center bg-gray-200"
+      class="flex justify-center pt-24 pb-12 -mt-24 bg-gray-200 xl:-mt-48 xl:pt-48"
     >
       <div>
-        <p class="text-center text-lg md:text-xl xl:text-2xl text-blue-800">
+        <p class="text-lg text-center text-blue-800 md:text-xl xl:text-2xl">
           学童の帰り
           <span class="px-1 bg-blue-300 rounded-full">手</span>
           <span class="px-1 bg-blue-300 rounded-full">ぶ</span>
           <span class="px-1 bg-blue-300 rounded-full">ら</span>
           でそろばん
         </p>
-        <div class="mt-6 flex justify-center">
+        <div class="flex justify-center mt-6">
           <nuxt-link class="btn btn-primary" to="/soroban">
             珠算詳細
             <svg
-              class="ml-4 w-4 h-4 fill-current"
+              class="w-4 h-4 ml-4 fill-current"
               viewBox="0 0 24 24"
               xmlns="http://www.w3.org/2000/svg"
             >

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="flex justify-center bg-blue-100 xl:pl-4">
-      <h3 class="py-2 xl:pl-8 xl:mr-auto text-xl text-blue-700 tracking-widest">
+      <h3 class="py-2 text-xl tracking-widest text-blue-700 xl:pl-8 xl:mr-auto">
         受験生の駆け込み塾
       </h3>
       <MenuLinksList
@@ -32,7 +32,7 @@
             type="image/jpeg"
           />
           <img
-            class="absolute inset-0 h-full w-full object-cover"
+            class="absolute inset-0 object-cover w-full h-full"
             src="~assets/photos/studying-girl_w_1600.jpg"
             alt="塾で勉強を頑張ている子供"
           />
@@ -49,15 +49,15 @@
           />
         </svg>
       </div>
-      <div class="px-4 z-10 xl:pl-12 xl:w-2/6">
+      <div class="z-10 px-4 xl:pl-12 xl:w-2/6">
         <p
-          class="pt-12 xl:pt-24 text-white text-lg tracking-wider leading-loose font-light"
+          class="pt-12 text-lg font-light leading-loose tracking-wider text-white xl:pt-24"
         >
           学校の授業で苦手な所があっても、
           <br />マンツーマンで克服し <br class="xl:hidden" />学力を伸ばせます。
         </p>
         <p
-          class="pt-12 pb-12 xl:pt-16 xl:pb-0 text-white text-lg tracking-wider leading-loose font-light"
+          class="pt-12 pb-12 text-lg font-light leading-loose tracking-wider text-white xl:pt-16 xl:pb-0"
         >
           短期集中１０ヶ月で
           <br />偏差値２０ＵＰの実績あり。
@@ -68,7 +68,7 @@
           <nuxt-link class="btn btn-primary" to="/freeTrial">
             無料体験
             <svg
-              class="ml-4 w-4 h-4 fill-current"
+              class="w-4 h-4 ml-4 fill-current"
               viewBox="0 0 24 24"
               xmlns="http://www.w3.org/2000/svg"
             >

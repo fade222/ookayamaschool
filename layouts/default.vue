@@ -1,5 +1,5 @@
 <template>
-  <div class="font-sans font-normal antialiased bg-white">
+  <div class="font-sans antialiased font-normal bg-white">
     <TheHeader />
     <nuxt />
     <TheFooter />

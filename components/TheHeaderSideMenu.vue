@@ -4,9 +4,9 @@
       <button
         @click="$emit('closeSideMenu')"
         type="button"
-        class="fixed bg-blue-900 opacity-50 inset-0 h-full w-full"
+        class="fixed inset-0 w-full h-full bg-blue-900 opacity-50"
       ></button>
-      <div class="absolute right-0 top-0 w-64 bg-white">
+      <div class="absolute top-0 right-0 w-64 bg-white">
         <div class="flex items-center">
           <div class="flex items-center">
             <div class="ml-3">
@@ -14,7 +14,7 @@
             </div>
             <nuxt-link
               @click.native="closeMenu"
-              class="ml-3 mt-1 capitalize text-sm font-bold text-blue-700 tracking-wider border-b-4 border-transparent hover:text-blue-500"
+              class="mt-1 ml-3 text-sm font-bold tracking-wider text-blue-700 capitalize border-b-4 border-transparent hover:text-blue-500"
               exact-active-class="text-blue-800 border-b-4 border-blue-300"
               to="/"
             >
@@ -24,10 +24,10 @@
           <button
             @click="$emit('closeSideMenu')"
             type="button"
-            class="ml-auto p-2 m-2 btn"
+            class="p-2 m-2 ml-auto btn"
           >
             <svg
-              class="w-4 h-4 stroke-current text-blue-800 hover:text-blue-700"
+              class="w-4 h-4 text-blue-800 stroke-current hover:text-blue-700"
               viewBox="0 0 24 24"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -41,15 +41,15 @@
             <span class="sr-only">Close</span>
           </button>
         </div>
-        <div class="mx-3 border border-bottom border-blue-300 rounded" />
+        <div class="mx-3 border border-blue-300 rounded border-bottom" />
         <div class="ml-6">
           <MenuLinksList @closeMenu="closeMenu" />
-          <div class="mt-8 flex items-center">
+          <div class="flex items-center mt-8">
             <div class="flex items-center">
               <img class="w-4 h-4" src="~assets/icons/icon-star.svg" alt />
               <nuxt-link
                 @click.native="closeMenu"
-                class="ml-3 mt-1 capitalize text-sm font-bold text-blue-700 tracking-wider border-b-4 border-transparent hover:text-blue-500"
+                class="mt-1 ml-3 text-sm font-bold tracking-wider text-blue-700 capitalize border-b-4 border-transparent hover:text-blue-500"
                 active-class="text-blue-800 border-b-4 border-blue-300"
                 to="/news"
               >
@@ -57,12 +57,12 @@
               </nuxt-link>
             </div>
           </div>
-          <div class="mt-8 flex items-center">
+          <div class="flex items-center mt-8">
             <div class="flex items-center">
               <img class="w-4 h-4" src="~assets/icons/icon-company.svg" alt />
               <nuxt-link
                 @click.native="closeMenu"
-                class="ml-3 mt-1 capitalize text-sm font-bold text-blue-700 tracking-wider border-b-4 border-transparent hover:text-blue-500"
+                class="mt-1 ml-3 text-sm font-bold tracking-wider text-blue-700 capitalize border-b-4 border-transparent hover:text-blue-500"
                 active-class="text-blue-800 border-b-4 border-blue-300"
                 to="/company"
               >
@@ -70,12 +70,12 @@
               </nuxt-link>
             </div>
           </div>
-          <div class="mt-8 flex items-center">
+          <div class="flex items-center mt-8">
             <div class="flex items-center">
               <img class="w-4 h-4" src="~assets/icons/icon-phone.svg" alt />
               <nuxt-link
                 @click.native="closeMenu"
-                class="ml-3 mt-1 capitalize text-sm font-bold text-blue-700 tracking-wider border-b-4 border-transparent hover:text-blue-500"
+                class="mt-1 ml-3 text-sm font-bold tracking-wider text-blue-700 capitalize border-b-4 border-transparent hover:text-blue-500"
                 active-class="text-blue-800 border-b-4 border-blue-300"
                 to="/contact"
               >
@@ -84,7 +84,7 @@
             </div>
           </div>
         </div>
-        <div class="mt-8 h-12 bg-gray-200 flex"></div>
+        <div class="flex h-12 mt-8 bg-gray-200"></div>
       </div>
     </nav>
   </transition>

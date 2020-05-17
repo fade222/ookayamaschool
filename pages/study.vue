@@ -1,12 +1,12 @@
 <template>
-  <main class="bg-white text-gray-800 pb-20">
+  <main class="pb-20 text-gray-800 bg-white">
     <PageSubHeader>学習科</PageSubHeader>
-    <div class="mt-8 mx-4 md:px-16 md:mt-8">
-      <h4 class="text-center text-xl xl:text-2xl  text-blue-800">
+    <div class="mx-4 mt-8 md:px-16 md:mt-8">
+      <h4 class="text-xl text-center text-blue-800 xl:text-2xl">
         勉強の仕方で成績ＵＰ
       </h4>
       <div
-        class="mt-8 p-6 pb-8 font-thin bg-blue-700 text-white rounded-lg xl:w-1/2 xl:mx-auto"
+        class="p-6 pb-8 mt-8 font-thin text-white bg-blue-700 rounded-lg xl:w-1/2 xl:mx-auto"
       >
         <h5 class="text-sm">
           授業内容
@@ -16,27 +16,27 @@
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
             １人１人に合わせて勉強を個人指導
           </li>
-          <li class="mt-5 flex items-center">
+          <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
             受験の相談と指導
           </li>
-          <li class="mt-5 flex items-center">
+          <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
             中間・期末テストの試験対策で
             <br class="sm:hidden" />成績ＵＰ
           </li>
-          <li class="mt-5 flex items-center">
+          <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
             学校の宿題も合わせてサポート
           </li>
-          <li class="mt-5 flex items-center">
+          <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
             中学受験・高校受験のサポートも
           </li>
         </ul>
       </div>
       <div class="px-4 md:px-20 xl:px-0 xl:mt-4 xl:w-1/2 xl:mx-auto">
-        <table class="mt-4 text-sm w-full table-collapse text-left">
+        <table class="w-full mt-4 text-sm text-left table-collapse">
           <tr>
             <th class="p-1 pt-8 font-bold text-blue-900">
               授業詳細
@@ -44,7 +44,7 @@
             <th class="p-1 pt-8 font-bold text-blue-900"></th>
           </tr>
           <tr>
-            <td class="p-1 border-t border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-gray-300">
               授業時間
             </td>
             <td class="text-right border-t border-gray-300">
@@ -52,7 +52,7 @@
             </td>
           </tr>
           <tr>
-            <td class="p-1 border-t border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-gray-300">
               授業開始
             </td>
             <td class="text-right border-t border-gray-300">
@@ -62,7 +62,7 @@
             </td>
           </tr>
           <tr>
-            <td class="p-1 border-t border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-gray-300">
               授業日
             </td>
             <td class="text-right border-t border-gray-300">
@@ -70,7 +70,7 @@
             </td>
           </tr>
           <tr>
-            <td class="p-1 border-t border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-gray-300">
               授業回数
             </td>
             <td class="text-right border-t border-gray-300">
@@ -78,7 +78,7 @@
             </td>
           </tr>
           <tr>
-            <td class="p-1 border-t border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-gray-300">
               対象
             </td>
             <td class="text-right border-t border-gray-300">
@@ -87,18 +87,18 @@
           </tr>
           <tr>
             <th
-              class="p-1 border-t border-b border-gray-300 text-blue-900 pt-8 font-bold"
+              class="p-1 pt-8 font-bold text-blue-900 border-t border-b border-gray-300"
             >
               料金
             </th>
             <th
-              class="p-1 border-t border-b border-gray-300 text-blue-900 pt-8 font-bold text-right"
+              class="p-1 pt-8 font-bold text-right text-blue-900 border-t border-b border-gray-300"
             >
               税別
             </th>
           </tr>
           <tr>
-            <td class="p-1 border-t border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-gray-300">
               入学金
             </td>
             <td class="text-right border-t border-gray-300">
@@ -106,7 +106,7 @@
             </td>
           </tr>
           <tr>
-            <td class="p-1 border-t border-b border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-b border-gray-300">
               教材費
               <span class="text-xs">（１ヶ月）</span>
             </td>
@@ -115,7 +115,7 @@
             </td>
           </tr>
           <tr>
-            <td class="p-1 border-t border-b border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-b border-gray-300">
               維持費
               <span class="text-xs">（１ヶ月）</span>
             </td>
@@ -127,11 +127,11 @@
             <td class="p-1 text-blue-900">
               授業料
             </td>
-            <td class="p-1 inline-block relative flex text-right">
+            <td class="relative flex inline-block p-1 text-right">
               <div class="ml-auto">
                 <select
                   v-model="selected"
-                  class="block appearance-none w-full border border-gray-500 hover:bg-gray-300 btn pr-8 btn"
+                  class="block w-full pr-8 border border-gray-500 appearance-none hover:bg-gray-300 btn"
                 >
                   <option disabled>
                     学年を選択
@@ -145,10 +145,10 @@
                   </option>
                 </select>
                 <div
-                  class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700"
+                  class="absolute inset-y-0 right-0 flex items-center px-2 text-gray-700 pointer-events-none"
                 >
                   <svg
-                    class="fill-current h-4 w-4"
+                    class="w-4 h-4 fill-current"
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                   >
@@ -161,7 +161,7 @@
             </td>
           </tr>
           <tr>
-            <td class="p-1 border-t border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-gray-300">
               授業時間
             </td>
             <td class="text-right border-t border-gray-300">
@@ -169,7 +169,7 @@
             </td>
           </tr>
           <tr>
-            <td class="p-1 border-t border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-gray-300">
               {{ selected.id >= 8 ? '月４回' : '月８回' }}
             </td>
             <td class="text-right border-t border-gray-300">
@@ -177,7 +177,7 @@
             </td>
           </tr>
           <tr>
-            <td class="p-1 border-t border-gray-300 text-blue-900">
+            <td class="p-1 text-blue-900 border-t border-gray-300">
               {{ selected.id >= 8 ? '月８回' : '月１２回' }}
             </td>
             <td class="text-right border-t border-gray-300">

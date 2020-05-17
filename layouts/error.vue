@@ -1,26 +1,26 @@
 <template>
-  <main class="font-sans font-normal antialiased bg-white text-gray-900 pb-32">
+  <main class="pb-32 font-sans antialiased font-normal text-gray-900 bg-white">
     <PageSubHeader>エラー</PageSubHeader>
-    <div class="pt-16 flex justify-center">
+    <div class="flex justify-center pt-16">
       <div>
         <p
           v-if="error.statusCode === 404"
-          class="mx-4 bg-orange-100 border-l-2 border-orange-500 text-orange-700 px-8 py-4 text-sm"
+          class="px-8 py-4 mx-4 text-sm text-orange-700 bg-orange-100 border-l-2 border-orange-500"
         >
           お探しのページは既に削除されたかURLが間違っている可能性があります。
         </p>
         <p
           v-else
-          class="mx-4 bg-orange-100 border-l-2 border-orange-500 text-orange-700 px-8 py-4 text-sm"
+          class="px-8 py-4 mx-4 text-sm text-orange-700 bg-orange-100 border-l-2 border-orange-500"
         >
           エラーが発生しました。
         </p>
-        <div class="mt-16 flex justify-center">
-          <button @click="$router.go(-1)" class="btn btn-secondary text-center">
+        <div class="flex justify-center mt-16">
+          <button @click="$router.go(-1)" class="text-center btn btn-secondary">
             戻る
           </button>
           <nuxt-link
-            class="ml-4 btn btn-secondary bg-blue-700 text-white text-center capitalize hover:bg-blue-600 active:bg-blue-800"
+            class="ml-4 text-center text-white capitalize bg-blue-700 btn btn-secondary hover:bg-blue-600 active:bg-blue-800"
             to="/"
           >
             Home

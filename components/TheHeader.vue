@@ -5,19 +5,19 @@
       @closeSideMenu="sideMenuOpen = !sideMenuOpen"
       class="xl:hidden"
     />
-    <div class="flex items-center z-0 xl:px-4">
-      <nuxt-link class="ml-2 z-20 flex items-center" to="/">
+    <div class="z-0 flex items-center xl:px-4">
+      <nuxt-link class="z-20 flex items-center ml-2" to="/">
         <div class="pl-1">
           <img class="w-6 h-6" src="~assets/icons/icon-koma.svg" alt />
         </div>
-        <h1 class="ml-2 pr-1 font-bold text-lg text-blue-800 tracking-wide">
+        <h1 class="pr-1 ml-2 text-lg font-bold tracking-wide text-blue-800">
           大岡山スクール
         </h1>
       </nuxt-link>
       <SubHeader class="hidden xl:block xl:pt-1 xl:pl-4" />
       <button
         @click="toggleSideMenu"
-        class="px-1 py-1 mr-2 mt-2 mb-2 ml-auto text-blue-800 hover:text-blue-700 btn xl:hidden"
+        class="px-1 py-1 mt-2 mb-2 ml-auto mr-2 text-blue-800 hover:text-blue-700 btn xl:hidden"
         type="button"
       >
         <svg
@@ -35,11 +35,11 @@
         <span class="sr-only">Open nav</span>
       </button>
       <div class="hidden xl:block xl:flex xl:ml-auto xl:mr-5 xl:text-sm">
-        <div class="mt-12 pl-12 xl:mt-0 flex">
+        <div class="flex pl-12 mt-12 xl:mt-0">
           <div class="flex items-center">
             <img class="w-6 h-6" src="~assets/icons/icon-star.svg" alt />
             <nuxt-link
-              class="ml-4 mt-1 text-blue-700 tracking-wide xl:font-bold border-b-4 border-transparent hover:text-blue-500"
+              class="mt-1 ml-4 tracking-wide text-blue-700 border-b-4 border-transparent xl:font-bold hover:text-blue-500"
               active-class="border-b-4 border-blue-300"
               to="/news"
             >
@@ -47,11 +47,11 @@
             </nuxt-link>
           </div>
         </div>
-        <div class="mt-12 pl-12 xl:mt-0 flex items-center">
+        <div class="flex items-center pl-12 mt-12 xl:mt-0">
           <div class="flex items-center">
             <img class="w-6 h-6" src="~assets/icons/icon-company.svg" alt />
             <nuxt-link
-              class="ml-4 mt-1 text-blue-700 tracking-wide xl:font-bold border-b-4 border-transparent hover:text-blue-500"
+              class="mt-1 ml-4 tracking-wide text-blue-700 border-b-4 border-transparent xl:font-bold hover:text-blue-500"
               active-class="border-b-4 border-blue-300"
               to="/company"
             >
@@ -59,11 +59,11 @@
             </nuxt-link>
           </div>
         </div>
-        <div class="mt-12 pl-12 xl:mt-0 flex items-center">
+        <div class="flex items-center pl-12 mt-12 xl:mt-0">
           <div class="flex items-center">
             <img class="w-6 h-6" src="~assets/icons/icon-phone.svg" alt />
             <nuxt-link
-              class="ml-4 mt-1 text-blue-700 tracking-wide xl:font-bold border-b-4 border-transparent hover:text-blue-500"
+              class="mt-1 ml-4 tracking-wide text-blue-700 border-b-4 border-transparent xl:font-bold hover:text-blue-500"
               active-class="border-b-4 border-blue-300"
               to="/contact"
             >
@@ -73,7 +73,7 @@
         </div>
       </div>
     </div>
-    <div class="mx-3 border border-bottom border-blue-300 rounded xl:mx-0" />
+    <div class="mx-3 border border-blue-300 rounded border-bottom xl:mx-0" />
     <SubHeader class="xl:hidden" />
   </header>
 </template>
