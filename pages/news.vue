@@ -6,17 +6,25 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
-              新規生徒募集を開始期
+              新規生徒募集を開始
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
-                ２０２０年０５月１８日
+                ２０２０年０５月２５日
               </small>
             </h2>
           </div>
           <div class="text-sm">
             <p class="pt-4">
-              新型コロナウイルスの影響が心配な中、政府の緊急事態宣言延長を受けて以下の時間で対応いたします。<br />
-              皆様のご理解、ご協力をお願い申し上げます。<br />
-              【受付時間】随時
+              今なら勉強の遅れた時間は、まだまだ取り戻せます。<br />
+              しっかり責任をもって個別指導をします。<br />
+            </p>
+            <p class="pt-4">
+              授業日
+            </p>
+            <p class="pt-4">
+              月曜日・木曜日<br />
+              １３：３０～１７：００ 塾で対面授業<br />
+              火曜日<br />
+              １３：３０～１７：００ オンライン授業<br />
             </p>
             <p class="pt-4">
               詳細はご連絡ください。
