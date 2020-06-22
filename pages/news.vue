@@ -6,15 +6,15 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
-              新規生徒募集を開始
+              新規生徒募集
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
-                ２０２０年６月１日
+                ２０２０年６月２２日
               </small>
             </h2>
           </div>
           <div class="text-sm">
             <p class="pt-4">
-              いよいよスタート<br />
+              本格スタート<br />
               今なら勉強の遅れた時間は、まだまだ取り戻せます。<br />
               しっかり責任をもって個別指導をします。<br />
             </p>
@@ -23,10 +23,9 @@
             </p>
             <p class="pt-4">
               月曜日・火曜日・木曜日・金曜日<br />
-              １５：３０～１８：３０ 塾で対面授業<br />
-              （自粛が開けたばかりで暫定時間になっています。）<br />
+              １５：３０～１９：３０<br />
               木曜日<br />
-              １７：００～１８：３０ オンライン授業も可能です。<br />
+              １８：００～１９：３０ はオンライン授業も可能です。<br />
             </p>
             <p class="pt-4">
               詳細はご連絡ください。
