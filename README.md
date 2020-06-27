@@ -1,6 +1,6 @@
 # ookayamaschool
 
-> Nuxt Universal SRR built with tailwind css. Utilizing eslint, prettier and purgecss.
+> Nuxt Universal SRR, Tailwind, Eslint + Prettier
 
 ## Build Setup
 
@@ -10,7 +10,7 @@ $ npm run lint
 $ npm run lint -- --fix
 
 # install dependencies
-$ npm run install
+$ npm install
 
 # serve with hot reload at localhost:3000
 $ npm run dev
