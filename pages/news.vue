@@ -8,7 +8,7 @@
             <h2 class="font-bold text-blue-800">
               新規生徒募集
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
-                ２０２０年６月２２日
+                ２０２０年７月５日（編集）
               </small>
             </h2>
           </div>
@@ -23,9 +23,9 @@
             </p>
             <p class="pt-4">
               月曜日・火曜日・木曜日・金曜日<br />
-              １５：３０～１９：３０<br />
-              木曜日<br />
-              １８：００～１９：３０ はオンライン授業も可能です。<br />
+              １５：３０～<br />
+              木曜日・金曜日<br />
+              １５：３０～ オンライン授業も可能です。<br />
             </p>
             <p class="pt-4">
               詳細はご連絡ください。
