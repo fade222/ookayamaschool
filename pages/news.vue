@@ -6,6 +6,59 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              コロナ対策に付いて
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２１年１月１６日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-4">
+              新年のスタートを切りましたが、<br />
+              緊急事態宣言が出てしまいました。
+            </p>
+            <p class="pt-4">
+              当スクールはコロナ対策に万全を期しています。
+            </p>
+            <p class="pt-4">
+              密にならないようにクラス分けをし、<br />
+              手洗い、除菌、体温測定、時間を決めて換気、ビニール仕切りを行っています。
+            </p>
+            <p class="pt-4">
+              そろばん・学習科を続けて受講される生徒さんにはフェイスシールドを使用して頂いています。
+            </p>
+            <p class="pt-4">
+              このような対策をとって行っていますので、ご安心してお預け下さい。
+            </p>
+            <div class="p-4 mt-4 bg-blue-100 rounded-md">
+              授業日<br />
+              <br />
+              月曜日・火曜日・木曜日・金曜日<br />
+              授業開始１５：４５～ <br />
+              金曜日は１６：２０～<br />
+            </div>
+            <p class="pt-4">
+              コロナ対策で時短にしてます。
+            </p>
+            <p class="pt-4">
+              オンライン授業も可能です。
+            </p>
+            <p class="pt-4">
+              詳細・時間等はお問い合わせ下さい。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               新規生徒募集
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２０年７月５日（編集）
@@ -18,15 +71,14 @@
               今なら勉強の遅れた時間は、まだまだ取り戻せます。<br />
               しっかり責任をもって個別指導をします。<br />
             </p>
-            <p class="pt-4">
-              授業日
-            </p>
-            <p class="pt-4">
+            <div class="p-4 mt-4 bg-blue-100 rounded-md">
+              授業日<br />
+              <br />
               月曜日・火曜日・木曜日・金曜日<br />
               １５：３０～<br />
               木曜日・金曜日<br />
               １５：３０～ オンライン授業も可能です。<br />
-            </p>
+            </div>
             <p class="pt-4">
               詳細はご連絡ください。
             </p>
