@@ -6,6 +6,70 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              アルバイト・パート求人
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２１年３月２５日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              珠算科・学習科の講師を募集しています。
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
+              春期講習会の受付開始
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２１年３月２５日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              ２０２１年３月２６日(金) ～
+              ４月２日（金）まで春期講習会を実施します。
+            </p>
+            <p class="pt-4">
+              ２７日（土）・２８日（日）はお休みです。
+            </p>
+            <p class="pt-4">
+              しっかりと土台作りをして<br />
+              新学年をスタートをしましょう。
+            </p>
+            <p class="pt-4">
+              個別授業です。
+            </p>
+            <p class="pt-4">
+              定員は１０名で締め切ります。
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               コロナ対策に付いて
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２１年１月１６日
@@ -55,7 +119,6 @@
           </div>
         </div>
       </article>
-
       <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
         <div class="md:pl-16">
           <div class="flex items-baseline">
