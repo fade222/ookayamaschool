@@ -43,7 +43,7 @@
               授業開始
             </td>
             <td class="text-right border-t border-gray-300">
-              午後３：３０～
+              午後３：４５～
               <br />
               <span class="text-xs">（御相談下さい）</span>
             </td>
@@ -61,7 +61,7 @@
               授業回数
             </td>
             <td class="text-right border-t border-gray-300">
-              週１回
+              週１
             </td>
           </tr>
           <tr>
@@ -81,7 +81,7 @@
             <th
               class="p-1 pt-8 font-bold text-right text-blue-900 border-t border-b border-gray-300"
             >
-              税別
+              税込
             </th>
           </tr>
           <tr>
@@ -89,7 +89,7 @@
               入学金
             </td>
             <td class="text-right border-t border-gray-300">
-              １５,０００円
+              １６,５００円
             </td>
           </tr>
           <tr>
@@ -98,7 +98,7 @@
               <span class="text-xs">（１ヶ月）</span>
             </td>
             <td class="text-right border-t border-gray-300">
-              ５００円
+              ５５０円
             </td>
           </tr>
           <tr>
@@ -107,14 +107,14 @@
               <span class="text-xs">（１ヶ月）</span>
             </td>
             <td class="text-right border-t border-b border-gray-300">
-              ６００円
+              ６６０円
             </td>
           </tr>
           <tr>
             <td class="p-1 text-blue-900">
               授業料
             </td>
-            <td class="relative flex inline-block p-1 text-right">
+            <td class="relative flex p-1 text-right">
               <div class="ml-auto">
                 <select
                   v-model="selected"
@@ -149,7 +149,7 @@
           </tr>
           <tr>
             <td class="p-1 text-blue-900 border-t border-gray-300">
-              月４回
+              週１
             </td>
             <td class="text-right border-t border-gray-300">
               {{ selected.frequencyFour }}
@@ -172,39 +172,39 @@ export default {
       options: [
         {
           id: 1,
-          name: '小学１・３年生',
+          name: '小学１～３年生',
           time: '１２０分',
-          frequencyFour: '２８,０００円'
+          frequencyFour: '３０,８００円'
         },
         {
           id: 4,
-          name: '小学４・６年生',
+          name: '小学４～６年生',
           time: '１２０分',
-          frequencyFour: '３６,０００円'
+          frequencyFour: '３９,６００円'
         },
         {
           id: 6,
           name: '中学１・２年生',
           time: '１２０分',
-          frequencyFour: '４４,０００円'
+          frequencyFour: '４８,４００円'
         },
         {
           id: 7,
           name: '中学３年生',
           time: '１２０分',
-          frequencyFour: '４４,０００円'
+          frequencyFour: '４８,４００円'
         },
         {
           id: 8,
           name: '高学１・２年生',
           time: '１２０分',
-          frequencyFour: '４０,０００円'
+          frequencyFour: '４４,０００円'
         },
         {
           id: 9,
           name: '高学３年生',
           time: '１２０分',
-          frequencyFour: '４５,０００円'
+          frequencyFour: '４９,５００円'
         }
       ]
     }

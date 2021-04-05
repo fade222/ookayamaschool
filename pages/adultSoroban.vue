@@ -43,7 +43,7 @@
               授業開始
             </td>
             <td class="text-right border-t border-gray-300">
-              午後３：３０～
+              午後３：４５～
               <br />
               <span class="text-xs">（御相談下さい）</span>
             </td>
@@ -53,7 +53,7 @@
               授業日
             </td>
             <td class="text-right border-t border-gray-300">
-              月～金
+              月・火・木・金
               <br />
               <span class="text-xs">（御相談下さい）</span>
             </td>
@@ -63,7 +63,7 @@
               授業回数
             </td>
             <td class="text-right border-t border-gray-300">
-              週１～２回
+              週１～２
               <br />
               <span class="text-xs">（御相談下さい）</span>
             </td>
@@ -85,7 +85,7 @@
             <th
               class="p-1 pt-8 font-bold text-right text-blue-900 border-t border-gray-300"
             >
-              税別
+              税込
             </th>
           </tr>
           <tr>
@@ -93,7 +93,7 @@
               入学金
             </td>
             <td class="text-right border-t border-gray-300">
-              ７,０００円
+              ７,７００円
             </td>
           </tr>
           <tr>
@@ -102,7 +102,7 @@
               <span class="text-xs">（１ヶ月）</span>
             </td>
             <td class="text-right border-t border-gray-300">
-              ６００円
+              ６６０円
             </td>
           </tr>
           <tr>
@@ -111,7 +111,7 @@
               <span class="text-xs">（１ヶ月）</span>
             </td>
             <td class="text-right border-t border-gray-300">
-              ５００円
+              ５５０円
             </td>
           </tr>
           <tr>
@@ -120,7 +120,7 @@
               <span class="text-xs">（１ヶ月）</span>
             </td>
             <td class="text-right border-t border-gray-300">
-              ９,０００円
+              ８,８００円
             </td>
           </tr>
         </table>

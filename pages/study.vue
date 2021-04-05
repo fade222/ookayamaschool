@@ -18,7 +18,7 @@
           </li>
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
-            受験の相談と指導
+            進路の相談と指導
           </li>
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
@@ -31,7 +31,7 @@
           </li>
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
-            中学受験・高校受験のサポートも
+            いつでもオンライン授業に振り替え可能
           </li>
         </ul>
       </div>
@@ -56,7 +56,7 @@
               授業開始
             </td>
             <td class="text-right border-t border-gray-300">
-              午後３：３０～
+              午後３：４５～
               <br />
               <span class="text-xs">（御相談下さい）</span>
             </td>
@@ -74,7 +74,7 @@
               授業回数
             </td>
             <td class="text-right border-t border-gray-300">
-              週２～３回
+              週１～３
             </td>
           </tr>
           <tr>
@@ -94,7 +94,7 @@
             <th
               class="p-1 pt-8 font-bold text-right text-blue-900 border-t border-b border-gray-300"
             >
-              税別
+              税込
             </th>
           </tr>
           <tr>
@@ -102,7 +102,7 @@
               入学金
             </td>
             <td class="text-right border-t border-gray-300">
-              １５,０００円
+              １６,５００円
             </td>
           </tr>
           <tr>
@@ -111,7 +111,7 @@
               <span class="text-xs">（１ヶ月）</span>
             </td>
             <td class="text-right border-t border-gray-300">
-              ５００円
+              ５５０円
             </td>
           </tr>
           <tr>
@@ -120,14 +120,14 @@
               <span class="text-xs">（１ヶ月）</span>
             </td>
             <td class="text-right border-t border-b border-gray-300">
-              ６００円
+              ６６０円
             </td>
           </tr>
           <tr>
             <td class="p-1 text-blue-900">
               授業料
             </td>
-            <td class="relative flex inline-block p-1 text-right">
+            <td class="relative flex p-1 text-right">
               <div class="ml-auto">
                 <select
                   v-model="selected"
@@ -170,18 +170,26 @@
           </tr>
           <tr>
             <td class="p-1 text-blue-900 border-t border-gray-300">
-              {{ selected.id >= 8 ? '月４回' : '月８回' }}
+              週１
             </td>
             <td class="text-right border-t border-gray-300">
-              {{ selected.frequencyEight }}
+              {{ selected.frequencyOne }}
             </td>
           </tr>
           <tr>
             <td class="p-1 text-blue-900 border-t border-gray-300">
-              {{ selected.id >= 8 ? '月８回' : '月１２回' }}
+              週２
             </td>
             <td class="text-right border-t border-gray-300">
-              {{ selected.frequencyTwelve }}
+              {{ selected.frequencyTwo }}
+            </td>
+          </tr>
+          <tr>
+            <td class="p-1 text-blue-900 border-t border-gray-300">
+              週３
+            </td>
+            <td class="text-right border-t border-gray-300">
+              {{ selected.frequencyThree }}
             </td>
           </tr>
         </table>
@@ -203,71 +211,81 @@ export default {
           id: 1,
           name: '幼稚園児',
           time: '９０分',
-          frequencyEight: '１２,０００円',
-          frequencyTwelve: ''
+          frequencyOne: '―',
+          frequencyTwo: '１３,２００円',
+          frequencyThree: '―'
         },
         {
           id: 2,
           name: '小学１・２年生',
           time: '９０分',
-          frequencyEight: '１３,０００円',
-          frequencyTwelve: ''
+          frequencyOne: '―',
+          frequencyTwo: '１４,３００円',
+          frequencyThree: '―'
         },
         {
           id: 3,
           name: '小学３年生',
           time: '１２０分',
-          frequencyEight: '１７,０００円',
-          frequencyTwelve: ''
+          frequencyOne: '―',
+          frequencyTwo: '１８,７００円',
+          frequencyThree: '―'
         },
         {
           id: 4,
           name: '小学４・５年生',
           time: '１２０分',
-          frequencyEight: '１９,０００円',
-          frequencyTwelve: '２６,０００円'
+          frequencyOne: '―',
+          frequencyTwo: '２０,９００円',
+          frequencyThree: '２８,６００円'
         },
         {
           id: 5,
           name: '小学６年生',
           time: '１２０分',
-          frequencyEight: '',
-          frequencyTwelve: '２８,０００円'
+          frequencyOne: '―',
+          frequencyTwo: '―',
+          frequencyThree: '３０,８００円'
         },
         {
           id: 6,
           name: '中学受験',
           time: '１２０分',
-          frequencyEight: '',
-          frequencyTwelve: '３５,０００円'
+          frequencyOne: '―',
+          frequencyTwo: '―',
+          frequencyThree: '３８,５００円'
         },
         {
           id: 6,
           name: '中学１・２年生',
           time: '１２０分',
-          frequencyEight: '',
-          frequencyTwelve: '３０,０００円'
+          frequencyOne: '―',
+          frequencyTwo: '―',
+          frequencyThree: '３３,０００円'
         },
         {
           id: 7,
           name: '中学３年生',
           time: '１２０分',
-          frequencyEight: '',
-          frequencyTwelve: '３５,０００円'
+          frequencyOne: '―',
+          frequencyTwo: '―',
+          frequencyThree: '３８,５００円'
         },
         {
           id: 8,
           name: '高学１・２年生',
           time: '１２０分',
-          frequencyEight: '１６,０００円 ',
-          frequencyTwelve: ''
+          frequencyOne: '１７,６００円 ',
+          frequencyTwo: '―',
+          frequencyThree: '―'
         },
         {
           id: 9,
           name: '高学３年生・既卒',
           time: '１２０分',
-          frequencyEight: '２０,０００円 ',
-          frequencyTwelve: ''
+          frequencyOne: '２２,０００円 ',
+          frequencyTwo: '―',
+          frequencyThree: '―'
         }
       ]
     }
