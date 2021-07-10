@@ -6,6 +6,40 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              夏期講習会のお知らせ
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２１年７月１０日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              ７月２２日(木)～８月２４日(火)まで夏期講習会を実施します。<br />
+              ＜定員１０名＞
+            </p>
+            <p class="pt-2">
+              月曜日・火曜日・木曜日・金曜日です。<br />
+              ７日間１０：００～１７：３０（自由に曜日・時間が選択できます。）<br />
+              じっくり弱点を個別指導し、分かるまで納得行くまでゆっくり指導します。<br />
+            </p>
+            <p class="pt-2">
+              スクールの夏休みは、８月２５日（水）～９月１日（水）です。
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               新学年のスタート
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２１年４月５日
