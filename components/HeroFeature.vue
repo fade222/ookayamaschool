@@ -5,7 +5,7 @@
         受験生の駆け込み塾
       </h3>
       <MenuLinksList
-        class="hidden xl:block xl:flex xl:ml-auto xl:mr-8 xl:mb-2 xl:mt-2"
+        class="hidden xl:flex xl:ml-auto xl:mr-8 xl:mb-2 xl:mt-2"
       />
     </div>
     <div
