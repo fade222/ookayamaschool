@@ -6,6 +6,41 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              塾のコロナ防衛策
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２１年０８月２７日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              新学期９月２日(木)１５：４５に向けて塾のコロナの防衛策を打ちます。<br />
+              <br />
+              玄関のドアを開けっぱなしにして、窓も喚起をしながらなので <br />
+              教室内が暑くなり対策として窓に遮光フィルムを貼りました。<br />
+              <br />
+              公共交通機関などで採用されている業者に依頼をし、<br />
+              ウィルスや菌から守る光触媒のコーティングを実施しました。<br />
+              <br />
+              今までのパーテーション等の対策に加え上記を追加し、<br />
+              安心して授業ができるように努力しています。<br />
+              <br />
+              勿論、三密・消毒・検温は実施しております。<br />
+              <br />
+              充実した講師陣で授業を行います、安心してお子様をお預けください。<br />
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               夏期講習会のお知らせ
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２１年７月１０日
