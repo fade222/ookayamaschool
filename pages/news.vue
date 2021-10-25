@@ -6,6 +6,42 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              冬期講習会のお知らせ
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２１年１０月１０日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              １２月２５日（土）～１２月２９日（水）まで冬期講習会を実施します。<br />
+              今回は短期集中講座とします。<br />
+              【１０：００～１６：００】欠席の時は振り変えます。<br />
+            </p>
+            <p class="pt-2">
+              定員１０名で締め切ります。
+            </p>
+            <div class="pl-2 mt-4 mb-4 bg-blue-100 rounded-md">
+              <ul class="list-disc list-inside">
+                <li>教材費含む</li>
+                <li>昼食代としてクオカード￥３，０００進呈</li>
+              </ul>
+            </div>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               塾のコロナ防衛策
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２１年０８月２７日
