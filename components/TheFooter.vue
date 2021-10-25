@@ -5,6 +5,20 @@
         <nuxt-link
           class="tracking-wider text-white border-b-2 border-transparent hover:text-blue-200"
           active-class="border-white"
+          to="/company"
+        >
+          <div class="flex items-center mb-2">
+            <div class="p-4 m-auto bg-yellow-100 rounded-full">
+              <img class="w-5 h-5" src="~assets/icons/icon-company.svg" alt />
+            </div>
+          </div>
+          会社概要
+        </nuxt-link>
+      </div>
+      <div class="ml-6 sm:ml-12">
+        <nuxt-link
+          class="tracking-wider text-white border-b-2 border-transparent hover:text-blue-200"
+          active-class="border-white"
           to="/news"
         >
           <div class="flex items-center mb-2">
@@ -27,20 +41,6 @@
             </div>
           </div>
           お問い合わせ
-        </nuxt-link>
-      </div>
-      <div class="ml-6 sm:ml-12">
-        <nuxt-link
-          class="tracking-wider text-white border-b-2 border-transparent hover:text-blue-200"
-          active-class="border-white"
-          to="/company"
-        >
-          <div class="flex items-center mb-2">
-            <div class="p-4 m-auto bg-yellow-100 rounded-full">
-              <img class="w-5 h-5" src="~assets/icons/icon-company.svg" alt />
-            </div>
-          </div>
-          会社概要
         </nuxt-link>
       </div>
     </div>
