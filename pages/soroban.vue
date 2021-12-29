@@ -19,27 +19,23 @@
         <ul class="xl:ml-8">
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
-            フラッシュ暗算
+            フラッシュ暗算・百マス計算・読み上げ算など充実した内容
           </li>
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
-            百マス計算
+            学校指導要領に沿った計算ドリルで算数にも強くなる
           </li>
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
-            計算プリント
+            そろばん教育を通じて集中力・人間力の育成
           </li>
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
-            読み上げ算
+            大人のそろばんで右脳開発
           </li>
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
-            読み上げ暗算
-          </li>
-          <li class="flex items-center mt-5">
-            <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
-            ２桁✕２桁まで暗算強化
+            いつでもオンライン授業に振り替え可能
           </li>
         </ul>
       </div>
@@ -60,7 +56,7 @@
               授業時間
             </td>
             <td class="text-right border-t border-gray-300">
-              ６０分～９０分
+              ６０分
             </td>
           </tr>
           <tr>
@@ -94,54 +90,7 @@
               対象
             </td>
             <td class="text-right border-t border-gray-300">
-              幼稚園児～
-            </td>
-          </tr>
-          <tr>
-            <th
-              class="p-1 pt-8 font-bold text-blue-900 border-t border-gray-300"
-            >
-              料金
-            </th>
-            <th
-              class="p-1 pt-8 font-bold text-right text-blue-900 border-t border-gray-300"
-            >
-              税込
-            </th>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              入学金
-            </td>
-            <td class="text-right border-t border-gray-300">
-              ７,７００円
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              維持費
-              <span class="text-xs">（１ヶ月）</span>
-            </td>
-            <td class="text-right border-t border-gray-300">
-              ６６０円
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              教材費
-              <span class="text-xs">（１ヶ月）</span>
-            </td>
-            <td class="text-right border-t border-gray-300">
-              ５５０円
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              授業料
-              <span class="text-xs">（１ヶ月）</span>
-            </td>
-            <td class="text-right border-t border-gray-300">
-              ８,８００円
+              幼稚園児から社会人まで
             </td>
           </tr>
         </table>

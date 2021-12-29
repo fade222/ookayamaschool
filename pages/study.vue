@@ -35,6 +35,10 @@
           </li>
         </ul>
       </div>
+      <p class="mt-4 text-center text-blue-800 text md:text-xl">
+        理科や社会、英検や漢検対策も
+        <br class="md:hidden" />様々な要望に対応
+      </p>
       <div class="px-4 md:px-20 xl:px-0 xl:mt-4 xl:w-1/2 xl:mx-auto">
         <table class="w-full mt-4 text-sm text-left table-collapse">
           <tr>
@@ -83,113 +87,6 @@
             </td>
             <td class="text-right border-t border-gray-300">
               幼稚園児～大学受験生まで
-            </td>
-          </tr>
-          <tr>
-            <th
-              class="p-1 pt-8 font-bold text-blue-900 border-t border-b border-gray-300"
-            >
-              料金
-            </th>
-            <th
-              class="p-1 pt-8 font-bold text-right text-blue-900 border-t border-b border-gray-300"
-            >
-              税込
-            </th>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              入学金
-            </td>
-            <td class="text-right border-t border-gray-300">
-              １６,５００円
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-b border-gray-300">
-              教材費
-              <span class="text-xs">（１ヶ月）</span>
-            </td>
-            <td class="text-right border-t border-gray-300">
-              ５５０円
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-b border-gray-300">
-              維持費
-              <span class="text-xs">（１ヶ月）</span>
-            </td>
-            <td class="text-right border-t border-b border-gray-300">
-              ６６０円
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900">
-              授業料
-            </td>
-            <td class="relative flex p-1 text-right">
-              <div class="ml-auto">
-                <select
-                  v-model="selected"
-                  class="block w-full pr-8 border border-gray-500 appearance-none hover:bg-gray-300 btn"
-                >
-                  <option disabled>
-                    学年を選択
-                  </option>
-                  <option
-                    v-for="(option, id) in options"
-                    :key="id"
-                    :value="option"
-                  >
-                    {{ option.name }}
-                  </option>
-                </select>
-                <div
-                  class="absolute inset-y-0 right-0 flex items-center px-2 text-gray-700 pointer-events-none"
-                >
-                  <svg
-                    class="w-4 h-4 fill-current"
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 20 20"
-                  >
-                    <path
-                      d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"
-                    />
-                  </svg>
-                </div>
-              </div>
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              授業時間
-            </td>
-            <td class="text-right border-t border-gray-300">
-              {{ selected.time }}
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              週１
-            </td>
-            <td class="text-right border-t border-gray-300">
-              {{ selected.frequencyOne }}
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              週２
-            </td>
-            <td class="text-right border-t border-gray-300">
-              {{ selected.frequencyTwo }}
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              週３
-            </td>
-            <td class="text-right border-t border-gray-300">
-              {{ selected.frequencyThree }}
             </td>
           </tr>
         </table>

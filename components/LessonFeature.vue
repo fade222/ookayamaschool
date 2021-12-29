@@ -61,42 +61,6 @@
           </svg>
         </nuxt-link>
       </li>
-      <li class="flex items-center mt-8 xl:mt-0 xl:ml-12">
-        <img class="w-3 h-3" src="~assets/icons/icon-koma.svg" alt="" />
-        <nuxt-link
-          class="flex items-center ml-5 xl:ml-2 hover:text-blue-500"
-          to="/privateTutoring"
-        >
-          1対1の個人指導科
-          <svg
-            class="w-4 h-4 ml-4 fill-current"
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M23 12.167l-11 7.938V4.228l11 7.939zM12 10.333V14H1v-3.667z"
-            />
-          </svg>
-        </nuxt-link>
-      </li>
-      <li class="flex items-center mt-8 xl:mt-0 xl:ml-12">
-        <img class="w-3 h-3" src="~assets/icons/icon-koma.svg" alt="" />
-        <nuxt-link
-          class="flex items-center ml-5 xl:ml-2 hover:text-blue-500"
-          to="/adultSoroban"
-        >
-          大人のそろばん
-          <svg
-            class="w-4 h-4 ml-4 fill-current"
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M23 12.167l-11 7.938V4.228l11 7.939zM12 10.333V14H1v-3.667z"
-            />
-          </svg>
-        </nuxt-link>
-      </li>
     </ul>
   </div>
 </template>

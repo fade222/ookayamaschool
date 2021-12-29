@@ -76,53 +76,6 @@
               小学１年～
             </td>
           </tr>
-          <tr>
-            <th
-              class="p-1 pt-8 font-bold text-blue-900 border-t border-gray-300"
-            >
-              料金
-            </th>
-            <th
-              class="p-1 pt-8 font-bold text-right text-blue-900 border-t border-gray-300"
-            >
-              税込
-            </th>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              入学金
-            </td>
-            <td class="text-right border-t border-gray-300">
-              ７,７００円
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              維持費
-              <span class="text-xs">（１ヶ月）</span>
-            </td>
-            <td class="text-right border-t border-gray-300">
-              ６６０円
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              教材費
-              <span class="text-xs">（１ヶ月）</span>
-            </td>
-            <td class="text-right border-t border-gray-300">
-              ５５０円
-            </td>
-          </tr>
-          <tr>
-            <td class="p-1 text-blue-900 border-t border-gray-300">
-              授業料
-              <span class="text-xs">（１ヶ月）</span>
-            </td>
-            <td class="text-right border-t border-gray-300">
-              ６,６００円
-            </td>
-          </tr>
         </table>
       </div>
     </div>
