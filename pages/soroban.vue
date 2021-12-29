@@ -19,7 +19,7 @@
         <ul class="xl:ml-8">
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
-            フラッシュ暗算・百マス計算・読み上げ算など充実した内容
+            フラッシュ暗算・独自の計算プリント・読み上げ算など充実した内容
           </li>
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
@@ -32,6 +32,10 @@
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
             大人のそろばんで右脳開発
+          </li>
+          <li class="flex items-center mt-5">
+            <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
+            ２桁×２桁まで暗算強化
           </li>
           <li class="flex items-center mt-5">
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-koma.svg" alt />
@@ -56,7 +60,7 @@
               授業時間
             </td>
             <td class="text-right border-t border-gray-300">
-              ６０分
+              ４０分～６０分程度
             </td>
           </tr>
           <tr>
@@ -64,7 +68,7 @@
               授業開始
             </td>
             <td class="text-right border-t border-gray-300">
-              午後３：４５～
+              午後３時３０分～
               <br />
               <span class="text-xs">（御相談下さい）</span>
             </td>
@@ -82,7 +86,7 @@
               授業回数
             </td>
             <td class="text-right border-t border-gray-300">
-              希望に合わせて
+              週１回～３回（ご希望に合わせて）
             </td>
           </tr>
           <tr>

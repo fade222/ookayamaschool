@@ -35,30 +35,6 @@
         <span class="sr-only">Open nav</span>
       </button>
       <div class="hidden xl:block xl:flex xl:ml-auto xl:mr-5 xl:text-sm">
-        <div class="flex pl-12 mt-12 xl:mt-0">
-          <div class="flex items-center">
-            <img class="w-6 h-6" src="~assets/icons/icon-star.svg" alt />
-            <nuxt-link
-              class="mt-1 ml-4 tracking-wide text-blue-700 border-b-4 border-transparent xl:font-bold hover:text-blue-500"
-              active-class="border-b-4 border-blue-300"
-              to="/news"
-            >
-              最新情報
-            </nuxt-link>
-          </div>
-        </div>
-        <div class="flex items-center pl-12 mt-12 xl:mt-0">
-          <div class="flex items-center">
-            <img class="w-6 h-6" src="~assets/icons/icon-company.svg" alt />
-            <nuxt-link
-              class="mt-1 ml-4 tracking-wide text-blue-700 border-b-4 border-transparent xl:font-bold hover:text-blue-500"
-              active-class="border-b-4 border-blue-300"
-              to="/company"
-            >
-              会社概要
-            </nuxt-link>
-          </div>
-        </div>
         <div class="flex items-center pl-12 mt-12 xl:mt-0">
           <div class="flex items-center">
             <img class="w-6 h-6" src="~assets/icons/icon-phone.svg" alt />

@@ -33,6 +33,10 @@
             <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
             いつでもオンライン授業に振り替え可能
           </li>
+          <li class="flex items-center mt-5">
+            <img class="w-3 h-3 mr-2" src="~assets/icons/icon-book.svg" alt />
+            理科・社会、英検・漢検対策など様々な要望に対応
+          </li>
         </ul>
       </div>
       <p class="mt-4 text-center text-blue-800 text md:text-xl">
@@ -52,7 +56,7 @@
               授業時間
             </td>
             <td class="text-right border-t border-gray-300">
-              ９０分～１２０分
+              ９０分
             </td>
           </tr>
           <tr>
@@ -60,7 +64,7 @@
               授業開始
             </td>
             <td class="text-right border-t border-gray-300">
-              午後３：４５～
+              午後３時３０分～
               <br />
               <span class="text-xs">（御相談下さい）</span>
             </td>
@@ -78,7 +82,7 @@
               授業回数
             </td>
             <td class="text-right border-t border-gray-300">
-              週１～３
+              週１回～３回
             </td>
           </tr>
           <tr>
