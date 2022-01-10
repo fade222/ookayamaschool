@@ -6,6 +6,35 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              新学期スタート
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２２年１月１０日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              新学期は、１月１０日（月）からスタートです。
+            </p>
+            <p class="pt-2">
+              時間は、繰り上げて授業します。<br />
+              １２：４５～
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               冬期講習会のお知らせ
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２１年１０月１０日
