@@ -6,6 +6,71 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              ３月中に入学した方
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２２年２月１９日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              入学金無料です。
+            </p>
+
+            <div class="pl-2 mt-4 mb-4 bg-blue-100 rounded-md">
+              <ul class="list-disc list-inside">
+                入学金
+                <li>珠算科￥７，７００ ⇒ ￥０</li>
+                <li>学習科￥１６，５００ ⇒ ￥０</li>
+              </ul>
+            </div>
+            <p class="pt-2">
+              但し、先着１０名様迄ですので、興味がある方はお急ぎください。<br />
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
+              春期講習会のお知らせ
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２２年２月１９日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              ３月２８日（月）～４月１日（金）<br />
+              １０:００～１７：００
+            </p>
+            <p class="pt-2">
+              講習会の定員１０名です。
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               新学期スタート
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２２年１月１０日
