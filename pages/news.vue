@@ -1,7 +1,34 @@
 <template>
   <main class="pb-20 text-gray-900 bg-white">
     <PageSubHeader>最新情報</PageSubHeader>
-    <div class="pt-8 md:pt-16 xl:mx-32">
+    <div class="pt-8 md:pt-16 xl:mx-64">
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
+              新学年のスタート
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２２年４月１０日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              ４月５日（火）１６：４０ＰＭ～です。<br />
+              自信を持って新学期を迎えましょう！<br />
+            </p>
+
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
       <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
         <div class="md:pl-16">
           <div class="flex items-baseline">
