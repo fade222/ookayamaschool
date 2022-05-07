@@ -6,6 +6,48 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              今年のスクールの夏の予定
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２２年５月７日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              今年はスクールの夏休み以外は、<br />
+              通常授業を行います。<br />
+              <br />
+              夏休み⇒７／２５（月）～８／３（水）・８／２９（月）・８／３０（火）<br />
+              <br />
+              夏期講習会⇒１０ＡＭ～４：３０ＰＭ<br />
+              ７／２５・７／２６・７／２８・７／２９・８／１・８／２の６日間<br />
+              【欠席の場合は振替あり】【オンライン要相談】<br />
+              <br />
+              この講座は、とても人気がありますので、<br />
+              先着順に１２名程度で締め切ります。<br />
+              受付開始中です。<br />
+              <br />
+              コロナ対策は万全に対応しています。<br />
+              ご安心してお預けください。<br />
+              <br />
+              只今、お友達紹介キャンペーン実施中です。
+            </p>
+
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               新学年のスタート
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２２年４月１０日
