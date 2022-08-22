@@ -6,6 +6,38 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              新学年のスタート
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２２年８月２２日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              いよいよ新学期が始まります。<br />
+              大岡山スクールがあなたの成長を助けます。<br />
+              ９月１日（木）３：４５ＰＭ～ スタート<br />
+            </p>
+            <div class="pl-2 mt-4 mb-4 bg-blue-100 rounded-md">
+              秋の特典→スクール入塾者先着7名様に限り、入学金減額<br />
+              （珠）￥７，７００ → ￥５，５００<br />
+              （学）￥１６，５００ → ￥１３，２００
+            </div>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               今年のスクールの夏の予定
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２２年５月７日
@@ -640,5 +672,3 @@ export default {
   }
 }
 </script>
-
-<style></style>
