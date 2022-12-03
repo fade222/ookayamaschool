@@ -34,7 +34,7 @@
         </svg>
         <span class="sr-only">Open nav</span>
       </button>
-      <div class="hidden xl:block xl:flex xl:ml-auto xl:mr-5 xl:text-sm">
+      <div class="hidden xl:flex xl:ml-auto xl:mr-5 xl:text-sm">
         <div class="flex items-center pl-12 mt-12 xl:mt-0">
           <div class="flex items-center">
             <img class="w-6 h-6" src="~assets/icons/icon-phone.svg" alt />
