@@ -6,6 +6,34 @@
         <div class="md:pl-16">
           <div class="flex items-baseline">
             <h2 class="font-bold text-blue-800">
+              冬休みのお知らせ
+              <small class="pl-1 text-xs tracking-tighter text-gray-500">
+                ２０２２年１２月２１日
+              </small>
+            </h2>
+          </div>
+          <div class="text-sm">
+            <p class="pt-2">
+              １２月２４日（土）～１月５日（木）までお休みです。
+            </p>
+            <p class="pt-4">
+              １月６日（金）１６：２０から新学期スタートです。
+            </p>
+            <p class="pt-4">
+              詳細はご連絡ください。
+            </p>
+          </div>
+          <div class="flex justify-center mt-8 md:justify-start">
+            <nuxt-link class="px-4 btn btn-secondary" to="/contact">
+              お問い合わせ
+            </nuxt-link>
+          </div>
+        </div>
+      </article>
+      <article class="px-4 pt-8 pb-8 tracking-wide border-b-2 border-gray-300">
+        <div class="md:pl-16">
+          <div class="flex items-baseline">
+            <h2 class="font-bold text-blue-800">
               新学年のスタート
               <small class="pl-1 text-xs tracking-tighter text-gray-500">
                 ２０２２年８月２２日
